@@ -1,0 +1,21 @@
+---
+name: intro-cds-website
+channels:
+  - defaults
+dependencies:
+  - docutils=0.14
+  - jinja2=2.10
+  - markdown=2.6.11
+  - markupsafe=1.0
+  - pandoc=2.2.1
+  - pygments=2.2.0
+  - python-dateutil=2.7.3
+  - python=3.7.0
+  - pytz=2018.5
+  - six=1.11.0
+  - unidecode=1.0.22
+  - pip:
+    - ghp-import==0.5.5
+    - pelican==3.7.1
+    - rpy2==2.9.4
+    - typogrify==2.0.7
