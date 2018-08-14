@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Pelican setings for CDS-101 (Fall 2018) website."""
+"""Pelican setings for CDS-101 website."""
 
 from __future__ import unicode_literals
 
@@ -8,7 +8,7 @@ AUTHOR = "Dr. Glasbrenner"
 SITENAME = "CDS-101: Introduction to Computational and Data Sciences"
 SITEURL = ""
 SLACK_URL = "http://masoncds101.slack.com"
-GITHUB_URL = "https://github.com/mason-fa18-cds-101-DL1/website"
+GITHUB_URL = "https://github.com/mason-fa18-cds-101-dl1/website"
 UNIVERSITYURL = "https://gmu.edu"
 TIMEZONE = "America/New_York"
 DEFAULT_LANG = "en"

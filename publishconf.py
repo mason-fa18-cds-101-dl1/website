@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Pelican publishing settings for University website."""
+"""Pelican publishing settings for CDS-101 website."""
 
 from __future__ import unicode_literals
 
