@@ -1,6 +1,6 @@
 Title: Fall 2018 Schedule
 Author: Dr. Glasbrenner
-Date: 2018-08-27 00:00
+Date: 2018-08-27 09:00
 Index_save_as: index.html
 Url: /index.html
 
@@ -8,11 +8,10 @@ Url: /index.html
 Week             Dates                Topic                                               Materials                     Due Dates
 ---------------- -------------------- --------------------------------------------------- ----------------------------- ------------------------------------------------
 Week 1           Aug-27 – Aug-31      Course orientation<br>
-                                      What are the computational and data sciences?<br>
-                                      Course toolbox
+                                      What are the computational and data sciences?
 
-Week 2           Sep-03 – Sep-07<br>  What are the computational and data sciences?<br>
-                 Labor Day            Course toolbox
+Week 2           Sep-03 – Sep-07<br>  Course toolbox
+                 Labor Day
 
 Week 3           Sep-10 – Sep-14      Data visualization
 
