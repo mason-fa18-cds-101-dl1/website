@@ -5,10 +5,12 @@ Index_save_as: index.html
 Url: /index.html
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Week             Dates                Topic                                                                             Assignments
----------------- -------------------- --------------------------------------------------------------------------------- ------------------------------------------------
-Week 1           Aug-27 – Aug-31      Course orientation<br>                                                            [Week 1 readings]<br>
-                                      [What are the computational and data sciences?]                                   [Week 1 module exercise]
+Week             Dates                Topic                                                         Materials                          Assignments
+---------------- -------------------- ------------------------------------------------------------- ---------                          -----------------------------
+Week 1           Aug-27 – Aug-31      Course orientation<br>                                        [<i                                [Week 1 readings]<br>
+                                      What are the computational and data sciences?                 class="fas fa-chalkboard-teacher"  [Week 1 module exercise]
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week01-materials]
 
 Week 2           Sep-03 – Sep-07<br>  Course toolbox
                  Labor Day
@@ -21,7 +23,7 @@ Week 5           Sep-24 – Sep-28      Data transformation
 
 Week 6           Oct-01 – Oct-05      Data transformation
 
-Week 7           Oct-08 – Oct-12<br>  Data cleaning                                                                     Midterm Exam
+Week 7           Oct-08 – Oct-12<br>  Data cleaning                                                                                    Midterm Exam
                  Columbus Day
 
 Week 8           Oct-15 – Oct-19      Data reshaping (Tidy data)
@@ -42,10 +44,10 @@ Week 14          Nov-26 – Nov-30      Modeling<br>
 
 Week 15          Dec-03 – Dec-07      Web scraping
 
-Week 16          Dec-10 – Dec-14                                                                                        Final project
+Week 16          Dec-10 – Dec-14                                                                                                       Final project
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Week 1 readings]:                               /assignments/week-01-readings/
-[Week 1 module exercise]:                        /assignments/can-twitter-predict-election-results-module-exercise/
-[What are the computational and data sciences?]: /materials/week-01-slides/
+[Week 1 readings]:        /assignments/week-01-readings/
+[week01-materials]:       /materials/week-01-slides/
+[Week 1 module exercise]: /assignments/can-twitter-predict-election-results-module-exercise/
