@@ -5,10 +5,10 @@ Index_save_as: index.html
 Url: /index.html
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Week             Dates                Topic                                               Materials                     Due Dates
----------------- -------------------- --------------------------------------------------- ----------------------------- ------------------------------------------------
-Week 1           Aug-27 – Aug-31      Course orientation<br>
-                                      What are the computational and data sciences?
+Week             Dates                Topic                                                                             Assignments
+---------------- -------------------- --------------------------------------------------------------------------------- ------------------------------------------------
+Week 1           Aug-27 – Aug-31      Course orientation<br>                                                            [Week 1 readings]<br>
+                                      [What are the computational and data sciences?]                                   [Week 1 module exercise]
 
 Week 2           Sep-03 – Sep-07<br>  Course toolbox
                  Labor Day
@@ -45,3 +45,7 @@ Week 15          Dec-03 – Dec-07      Web scraping
 Week 16          Dec-10 – Dec-14                                                                                        Final project
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Week 1 readings]:                               /assignments/week-01-readings/
+[Week 1 module exercise]:                        /assignments/can-twitter-predict-election-results-module-exercise/
+[What are the computational and data sciences?]: /materials/week-01-slides/
