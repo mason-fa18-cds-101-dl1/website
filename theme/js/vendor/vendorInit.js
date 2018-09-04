@@ -4,7 +4,7 @@
       align: 'left',
       autoResize: true,
       container: $('.wookmark-card-grid'),
-      itemWidth: 330,
+      itemWidth: 375,
       flexibleWidth: "100%",
       offset: 12,
       outerOffset: 0,
