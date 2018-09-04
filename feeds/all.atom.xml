@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-09-10T00:00:00-04:00</updated><entry><title>Week 2</title><link href="http://fall18.cds101.com/assignments/week-02-readings/" rel="alternate"></link><published>2018-09-10T00:00:00-04:00</published><updated>2018-09-10T00:00:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-10:/assignments/week-02-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-09-09T23:59:00-04:00</updated><entry><title>Week 2</title><link href="http://fall18.cds101.com/assignments/week-02-readings/" rel="alternate"></link><published>2018-09-09T23:59:00-04:00</published><updated>2018-09-09T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-09:/assignments/week-02-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;All of &lt;a href="http://r4ds.had.co.nz/communicate-intro.html"&gt;chapter 26&lt;/a&gt;&amp;nbsp;(short)&lt;/li&gt;
 &lt;li&gt;All of &lt;a href="http://r4ds.had.co.nz/r-markdown.html"&gt;chapter&amp;nbsp;27&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://book.cds101.com"&gt;Introduction to computational and data sciences supplemental&amp;nbsp;book&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From chapter 2: sections &lt;a href="http://book.cds101.com/getting-started.html"&gt;2.1&lt;/a&gt;, &lt;a href="http://book.cds101.com/navigating-the-github-site.html"&gt;2.2&lt;/a&gt;, and &lt;a href="http://book.cds101.com/repositories.html"&gt;2.3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;All of &lt;a href="http://r4ds.had.co.nz/communicate-intro.html"&gt;chapter 26&lt;/a&gt;&amp;nbsp;(short)&lt;/li&gt;
 &lt;li&gt;All of &lt;a href="http://r4ds.had.co.nz/r-markdown.html"&gt;chapter&amp;nbsp;27&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://book.cds101.com"&gt;Introduction to computational and data sciences supplemental&amp;nbsp;book&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;From chapter 2: sections &lt;a href="http://book.cds101.com/getting-started.html"&gt;2.1&lt;/a&gt;, &lt;a href="http://book.cds101.com/navigating-the-github-site.html"&gt;2.2&lt;/a&gt;, and &lt;a href="http://book.cds101.com/repositories.html"&gt;2.3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content><category term="reading"></category></entry><entry><title>Can Twitter predict election results?</title><link href="http://fall18.cds101.com/assignments/can-twitter-predict-election-results-module-exercise/" rel="alternate"></link><published>2018-09-03T00:00:00-04:00</published><updated>2018-09-03T00:00:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-03:/assignments/can-twitter-predict-election-results-module-exercise/</id><summary type="html">A module exercise about a data science study that used Twitter data to predict election&amp;nbsp;outcomes.</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;strong&gt;Due:&lt;/strong&gt; September 3, 2018 2018 @&amp;nbsp;12:00am&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id="appearances-of-candidates-names-on-twitter-can-help-predict-election-results"&gt;Appearances of candidates’ names on Twitter can help predict election&amp;nbsp;results&lt;/h2&gt;
