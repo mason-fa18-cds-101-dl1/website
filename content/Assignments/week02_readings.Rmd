@@ -1,0 +1,17 @@
+Title: Week 2
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-10 00:00
+Tags: reading
+Slug: week-02-readings
+Show_summary: false
+Show_link: false
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+*   All of [chapter 26][r4ds-ch-26] (short)
+*   All of [chapter 27][r4ds-ch-27]
+
+[r4ds-book]:  http://r4ds.had.co.nz
+[r4ds-ch-26]: http://r4ds.had.co.nz/communicate-intro.html
+[r4ds-ch-27]: http://r4ds.had.co.nz/r-markdown.html

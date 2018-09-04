@@ -1,13 +1,13 @@
 Title: Can Twitter predict election results?
 Author: Dr. Glasbrenner
-Date: 2018-09-02 23:59
+Date: 2018-09-03 00:00
 Tags: module-exercise
 Slug: can-twitter-predict-election-results-module-exercise
 Summary: A module exercise about a data science study that used Twitter data to predict election outcomes.
 Show_summary: true
 Show_link: true
 
-[**Due:** September 2, 2018 2018 @ 11:59pm]{.h3}
+[**Due:** September 3, 2018 2018 @ 12:00am]{.h3}
 
 ## Appearances of candidates' names on Twitter can help predict election results
 

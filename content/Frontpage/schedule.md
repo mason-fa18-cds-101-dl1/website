@@ -10,10 +10,12 @@ Week             Dates                Topic                                     
 Week 1           Aug-27 – Aug-31      Course orientation<br>                                        [<i                                [Week 1 readings]<br>
                                       What are the computational and data sciences?                 class="fas fa-chalkboard-teacher"  [Week 1 module exercise]
                                                                                                     data-fa-transform="grow-8">
-                                                                                                    </i>][week01-materials]
+                                                                                                    </i>][week01-02-materials]
 
-Week 2           Sep-03 – Sep-07<br>  Course toolbox
-                 Labor Day
+Week 2           Sep-03 – Sep-07<br>  Course toolbox                                                [<i                                [Week 2 readings]
+                 Labor Day                                                                          class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week01-02-materials]
 
 Week 3           Sep-10 – Sep-14      Data visualization
 
@@ -49,5 +51,6 @@ Week 16          Dec-10 – Dec-14                                              
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Week 1 readings]:        /assignments/week-01-readings/
-[week01-materials]:       /materials/week-01-slides/
+[Week 2 readings]:        /assignments/week-02-readings/
+[week01-02-materials]:    /materials/week-01-02-materials/
 [Week 1 module exercise]: /assignments/can-twitter-predict-election-results-module-exercise/

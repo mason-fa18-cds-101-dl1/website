@@ -1,16 +1,11 @@
 Title: Week 1
 Author: Dr. Glasbrenner
 Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
-Date: 2018-09-02 23:59
+Date: 2018-09-03 00:00
 Tags: reading
 Slug: week-01-readings
 Show_summary: false
 Show_link: false
-
-```{r setup, include = FALSE}
-icon_link <- '<i class="fas fa-link"></i>&nbsp;'
-su18_a01_readings <- '<code><i class="fas fa-lock"></i>su18-a01-readings</code>'
-```
 
 [[R for Data Science][r4ds-book]]{.h3}
 
@@ -23,4 +18,3 @@ All of Chapter 1, except skip sections 1.3.5, all of 1.4, all of 1.5, skip 1.6.8
 [isrs-book]:    /doc/Diez_Barr_%C3%87etinkaya-Rundel_IntroductoryStatisticsWithRandomizationAndSimulation.pdf
 [r4ds-book]:    http://r4ds.had.co.nz
 [r4ds-ch-1]:    http://r4ds.had.co.nz/introduction.html
-[cds101-slack]: https://masoncds101.slack.com
