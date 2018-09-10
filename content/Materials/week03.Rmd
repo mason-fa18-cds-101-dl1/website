@@ -1,0 +1,44 @@
+Title: Week 3
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-10 08:00
+Tags: class notes
+Slug: week-03-materials
+Show_summary: false
+Show_link: false
+
+```{r setup, include = FALSE}
+icon_pdf <- '<i class="fas fa-file-pdf" data-fa-transform="grow-16"></i>&nbsp;'
+```
+
+[Reproducible toolbox]{.h2}
+
+[Module exercises]{.h3}
+
+[DataCamp exercises (Week 3)][module-exercises]
+
+[Videos]{.h3}
+
+**01 - Reproducible toolbox - Reproducibility in science**
+
+```{r what-are-comput-data-sci-01-prologue, echo = FALSE}
+vembedr::embed_youtube(id = "-Pw-z_rROlw", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**02 - Reproducible toolbox - Reproducible research toolkit**
+
+```{r what-are-comput-data-sci-02-science, echo = FALSE}
+vembedr::embed_youtube(id = "GicSJT_VorM", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+[Slides]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pdf` &nbsp; [01 - Reproducibility in science]{.card-downloads-format}][slides-01]
+
+*   [`r icon_pdf` &nbsp; [02 - Reproducible research toolkit]{.card-downloads-format}][slides-02]
+:::
+
+[slides-01]:        /doc/week03_reproducible_toolbox_01_reproducibility_in_science.pdf
+[slides-02]:        /doc/week03_reproducible_toolbox_02_reproducible_research_toolkit.pdf
+[module-exercises]: /assignments/datacamp-exercises-week-3
