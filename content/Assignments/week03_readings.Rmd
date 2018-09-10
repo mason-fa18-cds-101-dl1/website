@@ -1,0 +1,19 @@
+Title: Week 3
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-16 23:59
+Tags: reading
+Slug: week-03-readings
+Show_summary: false
+Show_link: false
+
+[[R Markdown: The Definitive Guide][rmd-book]]{.h3}
+
+From [chapter 2][rmd-book-ch-2]: [Ch. 2 introduction][rmd-book-ch-2], [section 2.2][rmd-book-ch-2.2], [section 2.3][rmd-book-ch-2.3], [section 2.5][rmd-book-ch-2.5], [section 2.6][rmd-book-ch-2.6]
+
+[rmd-book]:        https://bookdown.org/yihui/rmarkdown/
+[rmd-book-ch-2]:   https://bookdown.org/yihui/rmarkdown/basics.html
+[rmd-book-ch-2.2]: https://bookdown.org/yihui/rmarkdown/compile.html
+[rmd-book-ch-2.3]: https://bookdown.org/yihui/rmarkdown/cheat-sheets.html
+[rmd-book-ch-2.5]: https://bookdown.org/yihui/rmarkdown/markdown-syntax.html
+[rmd-book-ch-2.6]: https://bookdown.org/yihui/rmarkdown/r-code.html
