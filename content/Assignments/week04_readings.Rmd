@@ -1,0 +1,23 @@
+Title: Week 4
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-23 23:59
+Tags: reading
+Slug: week-04-readings
+Show_summary: false
+Show_link: false
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+From [chapter 3][r4ds-ch-3]: sections [3.1][r4ds-ch-3.1] through [3.5][r4ds-ch-3.5]
+
+[[Introduction to computational and data sciences supplemental book][cds-book]]{.h3}
+
+All of [chapter 3][cds-book-ch-3] (short)
+
+[cds-book]:      http://book.cds101.com
+[r4ds-book]:     http://r4ds.had.co.nz
+[r4ds-ch-3]:     http://r4ds.had.co.nz/data-visualisation.html
+[r4ds-ch-3.1]:   http://r4ds.had.co.nz/data-visualisation.html#introduction-1
+[r4ds-ch-3.5]:   http://r4ds.had.co.nz/data-visualisation.html#facets
+[cds-book-ch-3]: http://book.cds101.com/describing-numerical-data.html

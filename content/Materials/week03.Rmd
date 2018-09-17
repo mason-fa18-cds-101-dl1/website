@@ -9,13 +9,17 @@ Show_link: false
 
 ```{r setup, include = FALSE}
 icon_pdf <- '<i class="fas fa-file-pdf" data-fa-transform="grow-16"></i>&nbsp;'
+icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 ```
 
 [Reproducible toolbox]{.h2}
 
 [Module exercises]{.h3}
 
-[DataCamp exercises (Week 3)][module-exercises]
+::: {.no-bullets}
+*   [`r icon_laptop` &nbsp; [DataCamp exercises (Week 3)]{.card-downloads-format}][module-exercises]
+:::
+<div style="margin-bottom: 1em"></div>
 
 [Videos]{.h3}
 

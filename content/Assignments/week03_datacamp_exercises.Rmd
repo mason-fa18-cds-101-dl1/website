@@ -1,6 +1,6 @@
 Title: DataCamp exercises (Week 3)
 Author: Dr. Glasbrenner
-Date: 2018-09-16 23:59
+Date: 2018-09-18 23:59
 Tags: module-exercise
 Slug: datacamp-exercises-week-3
 Show_summary: false
