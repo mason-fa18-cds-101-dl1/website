@@ -1,0 +1,220 @@
+Title: Homework 1
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-10-02 23:59
+Tags: homework
+Slug: homework-1
+Summary: Your first major assignment is a set of exercises based around a single dataset called <span class="monospace">rail_trail</span>, which will provide you with practice in creating visualizations using R and <code>ggplot2</code>.
+Show_summary: true
+Show_link: true
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE, eval = TRUE, fig.width = 5,
+  fig.asp = 0.618, out.width = "70%", dpi = 120,
+  fig.align = "center", cache = TRUE, dev = "svg"
+)
+icon_html5 <- '<i class="fab fa-html5" data-fa-transform="grow-8"></i>&nbsp;'
+icon_github <- '<i class="fab fa-github-alt" data-fa-transform="grow-8"></i>&nbsp;'
+```
+
+[**Individual submissions due:** October 2, 2018 @ 11:59pm]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_github` Github Classroom repo for **Homework 1**][github-classroom-repo]
+:::
+
+## Instructions
+
+[Obtain the Github repository you will use to complete homework 1][github-classroom-repo], which contains a starter RMarkdown file named `homework_1.Rmd`, which you will use to do your work and write-up when completing the questions below.
+Be sure to save, commit, and push (upload) frequently to Github so that you have incremental snapshots of your work.
+When you're done, follow the [**How to submit** section](#how-to-submit) below to setup a Pull Request, which will be used for feedback.
+
+### Individual rough draft versus the group draft
+
+Remember that you will be working through the homework assignment individually first (this is what is due by the end of the day on October 2nd), and later you will be assigned to a group where you will clean up the draft.
+As written in the course syllabus:
+
+> Homework assignments will completed in two stages.
+> The first is the “rough draft” stage that each student must complete on their own.
+> Grades for these submissions will be primarily based on the correctness of your answers to each question.
+> The second is the “group draft” stage, which will begin approximately 3 days after the rough drafts are due.
+> You will be assigned into groups where you will discuss the questions and assemble a final draft together.
+> You will not know these groups beforehand, and they will change with each assignment.
+> Grades for the group-submitted final drafts will, in addition to correctness, be based on document formatting, visualization quality, writing quality, and code style.
+> 
+> Both the individual rough draft and group report homework submissions are to be completed using the R Markdown format and they must successfully knit to HTML and PDF in a clean RStudio environment.
+> In the individual submissions, full sentences are required when the question is asking for a written response.
+> In the group reports, full sentences with proper grammar and punctuation are to be used throughout the report.
+> The group reports should explain what you are doing with each chunk of code and to interpret the meaning of what you calculate so that a person that is not familiar with the problem could follow your logic.
+
+**Important!**
+Several of these questions ask for explanations after obtaining the correct answer.
+For these, you do not have to write very long responses, just write enough to express the correct answer.
+When you are assigned into groups, that is when you will need to write everything out in full sentences.
+
+## The rail trail dataset
+
+```{r mass-central-logo, out.width = "300px", echo = FALSE}
+knitr::include_graphics("img/mass-central-logo.jpg")
+```
+
+For this homework assignment, you will be working though a set of visualization problems based on the `rail_trail` dataset.
+The `rail_trail` dataset was collected by the Pioneer Valley Planning Commission (PVPC) and counts the number of people that walked through a sensor on a *rail trail* during a ninety day period.
+[A *rail trail* is a retired or abandoned railway that was converted into a walking trail][rail-trail-wiki].
+The data was collected from April 5, 2005 to November 15, 2005 using a laser sensor placed at a location north of Chestnut Street in Florence, MA.
+
+```{r florence-ma-chestnut, out.width = "50%", echo = FALSE}
+knitr::include_graphics("img/florence-chestnut-street-rail-trail.png")
+```
+
+The dataset contains the following variables:
+
+| Variable      | Description                                                             |
+| :------------ | :---------------------------------------------------------------------- |
+| `hightemp`    | daily high temperature (in degrees Fahrenheit)                          |
+| `lowtemp`     | daily low temperature (in degrees Fahrenheit)                           |
+| `avgtemp`     | average of daily low and daily high temperature (in degrees Fahrenheit) |
+| `season`      | indicates whether the season was Spring, Summer, or Fall                |
+| `cloudcover`  | measure of cloud cover (in oktas)                                       |
+| `precip`      | measure of precipitation (in inches)                                    |
+| `volume`      | estimated number of trail users that day (number of breaks recorded)    |
+| `weekday`     | indicator of whether the day was a non-holiday weekday                  |
+
+## How to describe your visualizations
+
+When describing the contents of a visualization, follow the ideas discussed in these resources:
+
+*   [*Describing univariate and bivariate data*][describing-univariate-bivariate-data]
+
+*   [*Data visualization - Examining numerical data* slides][examining-numerical-data]
+
+## Questions
+
+@describe-dataset.
+    In the `rail_trail` dataset, how many rows are there?
+    How many columns?
+    Which variables in the dataset are continuous/numerical and which are categorical?
+
+@volume-histogram.
+    Create a histogram of the variable `volume` using the following code:
+    
+    ```r
+    ggplot(data = rail_trail) +
+      geom_histogram(mapping = aes(x = volume))
+    ```
+    
+    Describe the *shape* and *center* of the distribution.
+    Afterward, try adjusting the size of the histogram bins by adding the `binwidth` input.
+    To start with, use `binwidth = 21`.
+    If you need help with where to place `binwidth`, read the documentation by running `?geom_histogram` in your *Console* window.
+    Then, find a binwidth that's too narrow and another one that's too wide to produce a meaningful histogram.
+    
+@density-plot.
+    Choosing a proper bin width for a histogram can be tricky, and for that reason it's preferable to use visualizations that avoid using bin widths when possible.
+    An easy-to-use alternative to the histogram is `geom_density`, which creates a **density plot**.
+    Use `geom_density` to create a density plot of the variable `volume`.
+
+@remaining-histograms.
+    Create a density plot for each of the remaining numerical variables, and describe the *shape* and *center* of each distribution.
+    Are there any distributions that are similar in *shape* to each other?
+
+@scatter-plots.
+    Use `geom_point()` to create a scatterplot that plots `weekday` versus `season`.
+    Why is this plot not useful?
+
+@mosaic-plots.
+    Create a `geom_count()` plot (an alternative to a mosaic plot) using the same variables you considered in question @scatter-plots:
+    
+    ```r
+    ggplot(data = rail_trail) +
+      geom_count(mapping = aes(x = season, y = weekday))
+    ```
+    
+    Which circle in the plot takes up the most area?
+    Explain the meaning of the different size circles in the plot and what information it contains that is missing in the previous scatter plot.
+    
+@bar-chart.
+    Run `?geom_bar` in the *Console* window and read the documentation for `geom_bar()`, and then look at the entry for it on the [ggplot2 cheatsheet][ggplot2-cheatsheet]
+    Use `geom_bar()` to reproduce the following bar chart:
+
+    ```{r seasons-bar-chart, echo = FALSE}
+    knitr::include_graphics("img/seasons-bar-chart-1.svg")
+    ```
+    
+    After reproducing the plot, explain what the height of each bar means.
+    
+@bar-chart-position.
+    Starting from the code snippet you deduced in question @bar-chart, create two more bar charts:
+
+    *   Create a bar chart by supplying the input `position = "dodge"` to `geom_bar()`
+
+    *   Create a bar chart by supplying the input `position = "fill"` to `geom_bar()`.
+    
+    After creating the visualizations, describe the feature that `position` controls.
+    
+@precip-bar-chart.
+    Create a bar chart that maps its aesthetic `aes()` to `precip > 0`.
+    Interpret what this bar chart means.
+    
+@vol-vs-hightemp.
+    Create a scatter plot of `volume` versus `hightemp` using `geom_point()`.
+    Describe any trends that you see.
+    
+@facet-vs-color-aes.
+    Take the code snippet you wrote for question @vol-vs-hightemp and map the `weekday` variable to `color`.
+    Then create a second plot where, instead of mapping `weekday` to `color`, you *facet* over `weekday` using either `facet_wrap()` or `facet_grid()`.
+    Discuss the advantages and disadvantages to faceting instead of mapping to the `color` aesthetic.
+    How might the balance change if you had a larger dataset?
+    
+@using-smooth.
+    Take the code snippet that you wrote down in question @facet-vs-color-aes that faceted over `weekday` and create a model for each facet panel using `geom_smooth()`.
+    Discuss the trends in the number of rail trail users that `geom_smooth()` picks up.
+    
+@smooth-se-option.
+    Copy the code snippet you deduced in question @using-smooth and use the input `se = FALSE` for `geom_smooth()`.
+    What does the `se` input option for `geom_smooth()` control?
+
+## How to submit
+
+When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to GitHub.
+**To lock in your submission time,** knit your R Markdown document to PDF, download the file from RStudio Server, and upload it to the R Markdown mini-assignment posting on Blackboard.
+
+You are to also open a Pull Request on GitHub so that comments can be directly left on your R Markdown source files.
+After uploading to Blackboard, navigate to your copy of the [GitHub repository][github-classroom-repo] you used for this assignment.
+You should see your repository, along with the updated files that you synchronized to GitHub.
+Do the following:
+
+1.  Click the *Pull Requests* tab near the top of the page.
+
+2.  Click the green button that says "New pull request".
+
+3.  Click the dropdown menu button labeled "base:", and select the option [grading]{.monospace}.
+
+4.  Confirm that the dropdown menu button labled "compare:" is set to [master]{.monospace}.
+
+5.  Click the green button that says "Create pull request".
+
+6.  Give the *pull request* the following title: [Submission: Homework 1, FirstName LastName]{.monospace}, replacing [FirstName]{.monospace} and [LastName]{.monospace} with your actual first and last name.
+
+7.  In the messagebox, write [My submission is ready for grading \@jkglasbrenner]{.monospace}.
+
+8.  Click "Create pull request" to lock in your submission.
+
+## Cheatsheets
+
+You are encouraged to review and keep the following cheatsheets handy while working on this assignment:
+
+*   [RStudio cheatsheet][rstudio-cheatsheet]
+*   [RMarkdown cheatsheet][rmarkdown-cheatsheet]
+*   [RMarkdown reference][rmarkdown-reference]
+*   [`ggplot2` cheatsheet][ggplot2-cheatsheet]
+
+[rail-trail-wiki]:                      https://wikipedia.org/wiki/Rail_trail
+[ggplot2-cheatsheet]:                   /doc/ggplot2-cheatsheet.pdf
+[rstudio-cheatsheet]:                   /doc/rstudio-IDE-cheatsheet.pdf
+[rmarkdown-reference]:                  /doc/rmarkdown-reference.pdf
+[rmarkdown-cheatsheet]:                 /doc/rmarkdown-cheatsheet.pdf
+[github-classroom-repo]:                https://classroom.github.com/a/cNZyHEVb
+[examining-numerical-data]:             /doc/week04_data_visualization_02_examining_numerical_data.pdf
+[describing-univariate-bivariate-data]: http://book.cds101.com/describing-numerical-data.html
