@@ -22,7 +22,10 @@ Week 3           Sep-10 – Sep-14      Course toolbox                          
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week03-materials]
 
-Week 4           Sep-17 – Sep-21      Data visualization
+Week 4           Sep-17 – Sep-21      Data visualization                                            [<i                                [Week 4 readings]<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Week 4 module exercises]<br>
+                                                                                                    data-fa-transform="grow-8">        [R Markdown mini-assignment]<br>
+                                                                                                    </i>][week04-materials]            [Visualization mini-assignment]
 
 Week 5           Sep-24 – Sep-28      Data visualization
 
@@ -53,10 +56,15 @@ Week 16          Dec-10 – Dec-14                                              
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Week 1 readings]:         /assignments/week-01-readings/
-[Week 2 readings]:         /assignments/week-02-readings/
-[Week 3 readings]:         /assignments/week-03-readings/
-[week01-02-materials]:     /materials/week-01-02-materials/
-[week03-materials]:        /materials/week-03-materials/
-[Week 1 module exercise]:  /assignments/can-twitter-predict-election-results-module-exercise/
-[Week 3 module exercises]: /assignments/datacamp-exercises-week-3/
+[Week 1 readings]:               /assignments/week-01-readings/
+[Week 2 readings]:               /assignments/week-02-readings/
+[Week 3 readings]:               /assignments/week-03-readings/
+[Week 4 readings]:               /assignments/week-04-readings/
+[week01-02-materials]:           /materials/week-01-02-materials/
+[week03-materials]:              /materials/week-03-materials/
+[week04-materials]:              /materials/week-04-materials/
+[Week 1 module exercise]:        /assignments/can-twitter-predict-election-results-module-exercise/
+[Week 3 module exercises]:       /assignments/datacamp-exercises-week-3/
+[Week 4 module exercises]:       /assignments/datacamp-exercises-week-4/
+[R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
+[Visualization mini-assignment]: /assignments/visualization-mini-assignment/

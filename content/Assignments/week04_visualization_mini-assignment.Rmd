@@ -1,0 +1,82 @@
+Title: Visualization mini-assignment
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-24 23:59
+Tags: mini-assignment
+Slug: visualization-mini-assignment
+Summary: Mini-assignment to practice using RStudio to run code blocks in RMarkdown files and to create visualizations using ggplot2.
+Show_summary: true
+Show_link: true
+
+```{r setup, include = FALSE}
+icon_html5 <- '<i class="fab fa-html5" data-fa-transform="grow-8"></i>&nbsp;'
+icon_github <- '<i class="fab fa-github-alt" data-fa-transform="grow-8"></i>&nbsp;'
+```
+
+[**Due:** September 24, 2018 @ 11:59pm]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_html5` Offline, HTML-rendered copy of worksheet (code blocks left unevaluated)][mini-assignment-no-code-preview-html]
+
+*   [`r icon_github` GitHub Classroom repo for **Visualization mini-assignment**][github-classroom]
+:::
+
+## Instructions
+
+::: {.callout .secondary}
+[First-time RStudio Server setup]{.h4}
+
+**Important!** Follow **all** the directions in the repository linked below **before** starting work on this mini-assignment.
+
+:::: {.no-bullets}
+*   [`r icon_github` &nbsp; [RStudio Server Configuration repository]{.card-downloads-format}][rstudio-configuration] 
+::::
+:::
+
+[Obtain the GitHub repository you will use to complete the mini-assignment][github-classroom], which contains a starter file named [visualization_mini-assignment.Rmd]{.monospace}.
+The demos and exercises you will be completing are written inside [visualization_mini-assignment.Rmd]{.monospace}, complete them within the indicated spaces.
+You should knit your file to the HTML format to check how it looks.
+When you're done, save your file, commit, push (upload) it to GitHub, and follow the **[How to submit](#how-to-submit)** section below to setup a Pull Request, which will be used for feedback.
+
+## How to submit
+
+When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to GitHub.
+**To lock in your submission time,** knit your R Markdown document to HTML, download the file from RStudio Server, and upload it to the R Markdown mini-assignment posting on Blackboard.
+
+You are to also open a Pull Request on GitHub so that comments can be directly left on your R Markdown source files.
+After uploading to Blackboard, navigate to your copy of the [GitHub repository][github-classroom] you used for this assignment.
+You should see your repository, along with the updated files that you synchronized to GitHub.
+Do the following:
+
+1.  Click the *Pull Requests* tab near the top of the page.
+
+2.  Click the green button that says "New pull request".
+
+3.  Click the dropdown menu button labeled "base:", and select the option [grading]{.monospace}.
+
+4.  Confirm that the dropdown menu button labled "compare:" is set to [master]{.monospace}.
+
+5.  Click the green button that says "Create pull request".
+
+6.  Give the *pull request* the following title: [Submission: Visualization mini-assignment, FirstName LastName]{.monospace}, replacing [FirstName]{.monospace} and [LastName]{.monospace} with your actual first and last name.
+
+7.  In the messagebox, write [My submission is ready for grading \@jkglasbrenner]{.monospace}.
+
+8.  Click "Create pull request" to lock in your submission.
+
+## Cheatsheets
+
+You are encouraged to review and keep the following cheatsheets handy while working on this assignment:
+
+*   [RStudio cheatsheet][rstudio-cheatsheet]
+
+*   [RMarkdown cheatsheet][rmarkdown-cheatsheet]
+
+*   [RMarkdown reference][rmarkdown-reference]
+
+[github-classroom]:                     https://classroom.github.com/a/7GwZOScA
+[rstudio-cheatsheet]:                   /doc/rstudio-ide-cheatsheet.pdf
+[rmarkdown-reference]:                  /doc/rmarkdown-reference.pdf
+[rmarkdown-cheatsheet]:                 /doc/rmarkdown-cheatsheet.pdf
+[rstudio-configuration]:                https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server
+[mini-assignment-no-code-preview-html]: /doc/mini-assignment-no-code-preview.html
