@@ -1,5 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-09-16T23:59:00-04:00</updated><entry><title>DataCamp exercises (Week 3)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-3/" rel="alternate"></link><published>2018-09-16T23:59:00-04:00</published><updated>2018-09-16T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-16:/assignments/datacamp-exercises-week-3/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-09-25T23:59:00-04:00</updated><entry><title>DataCamp exercises (Week 4)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-4/" rel="alternate"></link><published>2018-09-25T23:59:00-04:00</published><updated>2018-09-25T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-25:/assignments/datacamp-exercises-week-4/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From &lt;em&gt;Data Visualization with ggplot2 (Part&amp;nbsp;1)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="module-exercise"></category></entry><entry><title>R Markdown mini-assignment</title><link href="http://fall18.cds101.com/assignments/rmarkdown-mini-assignment/" rel="alternate"></link><published>2018-09-24T23:59:00-04:00</published><updated>2018-09-24T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-24:/assignments/rmarkdown-mini-assignment/</id><summary type="html">Mini-assignment on editing R Markdown files and saving to&amp;nbsp;GitHub.</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;strong&gt;Due:&lt;/strong&gt; September 24, 2018 @&amp;nbsp;11:59pm&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rmarkdown-mini-assignment-template.html"&gt;&lt;i class="fab fa-html5" data-fa-transform="grow-8"&gt;&lt;/i&gt;  &lt;span class="monospace"&gt;rmarkdown_practice.html&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://classroom.github.com/a/wdAMzlIJ"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;  GitHub Classroom repo for &lt;strong&gt;R Markdown&amp;nbsp;mini-assignment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;First-time RStudio Server&amp;nbsp;setup&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Follow &lt;strong&gt;all&lt;/strong&gt; the directions in the repository linked below &lt;strong&gt;before&lt;/strong&gt; starting work on this&amp;nbsp;mini-assignment.&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;RStudio Server Configuration&amp;nbsp;repository&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com/a/wdAMzlIJ"&gt;Obtain the GitHub repository for the activity&lt;/a&gt;, which contains a starter file named &lt;span class="monospace"&gt;rmarkdown.Rmd&lt;/span&gt;. Use this file to re-create the layout of &lt;a href="/doc/rmarkdown-mini-assignment-template.html"&gt;&lt;span class="monospace"&gt;rmarkdown-mini-assignment-template.html&lt;/span&gt;&lt;/a&gt; using Markdown. You will knit your file to the &lt;span class="caps"&gt;HTML&lt;/span&gt; format. When you’re done, save your file, commit, push (upload) it to GitHub, and follow the &lt;strong&gt;&lt;a href="#how-to-submit"&gt;How to submit&lt;/a&gt;&lt;/strong&gt; section below to setup a Pull Request, which will be used for&amp;nbsp;feedback.&lt;/p&gt;
+&lt;h2 id="how-to-submit"&gt;How to&amp;nbsp;submit&lt;/h2&gt;
+&lt;p&gt;When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to GitHub. &lt;strong&gt;To lock in your submission time,&lt;/strong&gt; knit your R Markdown document to &lt;span class="caps"&gt;HTML&lt;/span&gt;, download the file from RStudio Server, and upload it to the R Markdown mini-assignment posting on&amp;nbsp;Blackboard.&lt;/p&gt;
+&lt;p&gt;You are to also open a Pull Request on GitHub so that comments can be directly left on your R Markdown source files. After uploading to Blackboard, navigate to your copy of the &lt;a href="https://classroom.github.com/a/wdAMzlIJ"&gt;GitHub repository&lt;/a&gt; you used for this assignment. You should see your repository, along with the updated files that you synchronized to GitHub. Do the&amp;nbsp;following:&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;&lt;p&gt;Click the &lt;em&gt;Pull Requests&lt;/em&gt; tab near the top of the&amp;nbsp;page.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the green button that says “New pull&amp;nbsp;request”.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the dropdown menu button labeled “base:”, and select the option &lt;span class="monospace"&gt;grading&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Confirm that the dropdown menu button labled “compare:” is set to &lt;span class="monospace"&gt;master&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the green button that says “Create pull&amp;nbsp;request”.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Give the &lt;em&gt;pull request&lt;/em&gt; the following title: &lt;span class="monospace"&gt;Submission: R Markdown mini-assignment, FirstName LastName&lt;/span&gt;, replacing &lt;span class="monospace"&gt;FirstName&lt;/span&gt; and &lt;span class="monospace"&gt;LastName&lt;/span&gt; with your actual first and last&amp;nbsp;name.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the messagebox, write &lt;span class="monospace"&gt;My submission is ready for grading @jkglasbrenner&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click “Create pull request” to lock in your&amp;nbsp;submission.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="cheatsheets"&gt;Cheatsheets&lt;/h2&gt;
+&lt;p&gt;You are encouraged to review and keep the following cheatsheets handy while working on this&amp;nbsp;assignment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rstudio-IDE-cheatsheet.pdf"&gt;RStudio&amp;nbsp;cheatsheet&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rmarkdown-cheatsheet.pdf"&gt;RMarkdown&amp;nbsp;cheatsheet&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rmarkdown-reference.pdf"&gt;RMarkdown&amp;nbsp;reference&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="mini-assignment"></category></entry><entry><title>Visualization mini-assignment</title><link href="http://fall18.cds101.com/assignments/visualization-mini-assignment/" rel="alternate"></link><published>2018-09-24T23:59:00-04:00</published><updated>2018-09-24T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-24:/assignments/visualization-mini-assignment/</id><summary type="html">Mini-assignment to practice using RStudio to run code blocks in RMarkdown files and to create visualizations using&amp;nbsp;ggplot2.</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;strong&gt;Due:&lt;/strong&gt; September 24, 2018 @&amp;nbsp;11:59pm&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/mini-assignment-no-code-preview.html"&gt;&lt;i class="fab fa-html5" data-fa-transform="grow-8"&gt;&lt;/i&gt;  Offline, &lt;span class="caps"&gt;HTML&lt;/span&gt;-rendered copy of worksheet (code blocks left&amp;nbsp;unevaluated)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://classroom.github.com/a/7GwZOScA"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;  GitHub Classroom repo for &lt;strong&gt;Visualization&amp;nbsp;mini-assignment&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;First-time RStudio Server&amp;nbsp;setup&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Follow &lt;strong&gt;all&lt;/strong&gt; the directions in the repository linked below &lt;strong&gt;before&lt;/strong&gt; starting work on this&amp;nbsp;mini-assignment.&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;RStudio Server Configuration&amp;nbsp;repository&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com/a/7GwZOScA"&gt;Obtain the GitHub repository you will use to complete the mini-assignment&lt;/a&gt;, which contains a starter file named &lt;span class="monospace"&gt;visualization_mini-assignment.Rmd&lt;/span&gt;. The demos and exercises you will be completing are written inside &lt;span class="monospace"&gt;visualization_mini-assignment.Rmd&lt;/span&gt;, complete them within the indicated spaces. You should knit your file to the &lt;span class="caps"&gt;HTML&lt;/span&gt; format to check how it looks. When you’re done, save your file, commit, push (upload) it to GitHub, and follow the &lt;strong&gt;&lt;a href="#how-to-submit"&gt;How to submit&lt;/a&gt;&lt;/strong&gt; section below to setup a Pull Request, which will be used for&amp;nbsp;feedback.&lt;/p&gt;
+&lt;h2 id="how-to-submit"&gt;How to&amp;nbsp;submit&lt;/h2&gt;
+&lt;p&gt;When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to GitHub. &lt;strong&gt;To lock in your submission time,&lt;/strong&gt; knit your R Markdown document to &lt;span class="caps"&gt;HTML&lt;/span&gt;, download the file from RStudio Server, and upload it to the R Markdown mini-assignment posting on&amp;nbsp;Blackboard.&lt;/p&gt;
+&lt;p&gt;You are to also open a Pull Request on GitHub so that comments can be directly left on your R Markdown source files. After uploading to Blackboard, navigate to your copy of the &lt;a href="https://classroom.github.com/a/7GwZOScA"&gt;GitHub repository&lt;/a&gt; you used for this assignment. You should see your repository, along with the updated files that you synchronized to GitHub. Do the&amp;nbsp;following:&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;&lt;p&gt;Click the &lt;em&gt;Pull Requests&lt;/em&gt; tab near the top of the&amp;nbsp;page.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the green button that says “New pull&amp;nbsp;request”.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the dropdown menu button labeled “base:”, and select the option &lt;span class="monospace"&gt;grading&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Confirm that the dropdown menu button labled “compare:” is set to &lt;span class="monospace"&gt;master&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click the green button that says “Create pull&amp;nbsp;request”.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Give the &lt;em&gt;pull request&lt;/em&gt; the following title: &lt;span class="monospace"&gt;Submission: Visualization mini-assignment, FirstName LastName&lt;/span&gt;, replacing &lt;span class="monospace"&gt;FirstName&lt;/span&gt; and &lt;span class="monospace"&gt;LastName&lt;/span&gt; with your actual first and last&amp;nbsp;name.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the messagebox, write &lt;span class="monospace"&gt;My submission is ready for grading @jkglasbrenner&lt;/span&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click “Create pull request” to lock in your&amp;nbsp;submission.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="cheatsheets"&gt;Cheatsheets&lt;/h2&gt;
+&lt;p&gt;You are encouraged to review and keep the following cheatsheets handy while working on this&amp;nbsp;assignment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rstudio-ide-cheatsheet.pdf"&gt;RStudio&amp;nbsp;cheatsheet&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rmarkdown-cheatsheet.pdf"&gt;RMarkdown&amp;nbsp;cheatsheet&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/rmarkdown-reference.pdf"&gt;RMarkdown&amp;nbsp;reference&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="mini-assignment"></category></entry><entry><title>Week 4</title><link href="http://fall18.cds101.com/assignments/week-04-readings/" rel="alternate"></link><published>2018-09-23T23:59:00-04:00</published><updated>2018-09-23T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-23:/assignments/week-04-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/data-visualisation.html"&gt;chapter 3&lt;/a&gt;: sections &lt;a href="http://r4ds.had.co.nz/data-visualisation.html#introduction-1"&gt;3.1&lt;/a&gt; through &lt;a href="http://r4ds.had.co.nz/data-visualisation.html#facets"&gt;3.5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://book.cds101.com"&gt;Introduction to computational and data sciences supplemental&amp;nbsp;book&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All of &lt;a href="http://book.cds101.com/describing-numerical-data.html"&gt;chapter 3&lt;/a&gt;&amp;nbsp;(short)&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/data-visualisation.html"&gt;chapter 3&lt;/a&gt;: sections &lt;a href="http://r4ds.had.co.nz/data-visualisation.html#introduction-1"&gt;3.1&lt;/a&gt; through &lt;a href="http://r4ds.had.co.nz/data-visualisation.html#facets"&gt;3.5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://book.cds101.com"&gt;Introduction to computational and data sciences supplemental&amp;nbsp;book&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All of &lt;a href="http://book.cds101.com/describing-numerical-data.html"&gt;chapter 3&lt;/a&gt;&amp;nbsp;(short)&lt;/p&gt;
+</content><category term="reading"></category></entry><entry><title>DataCamp exercises (Week 3)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-3/" rel="alternate"></link><published>2018-09-18T23:59:00-04:00</published><updated>2018-09-18T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-18:/assignments/datacamp-exercises-week-3/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
 &lt;p&gt;You should have received an invitation in your Mason email address to register and join &lt;a href="https://datacamp.com"&gt;DataCamp&lt;/a&gt;. If you have not done so already, complete the registration so that you can join the &lt;em&gt;Introduction to Computational and Data Sciences&lt;/em&gt; class there. You are to watch the tutorial videos and complete …&lt;/p&gt;</summary><content type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
 &lt;p&gt;You should have received an invitation in your Mason email address to register and join &lt;a href="https://datacamp.com"&gt;DataCamp&lt;/a&gt;. If you have not done so already, complete the registration so that you can join the &lt;em&gt;Introduction to Computational and Data Sciences&lt;/em&gt; class there. You are to watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
 &lt;div class="callout secondary"&gt;
@@ -24,13 +124,133 @@
 &lt;ul&gt;
 &lt;li&gt;Version&amp;nbsp;Control&lt;/li&gt;
 &lt;/ul&gt;
-</content><category term="module-exercise"></category></entry><entry><title>Week 3</title><link href="http://fall18.cds101.com/assignments/week-03-readings/" rel="alternate"></link><published>2018-09-16T23:59:00-04:00</published><updated>2018-09-16T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-16:/assignments/week-03-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="https://bookdown.org/yihui/rmarkdown/"&gt;R Markdown: The Definitive&amp;nbsp;Guide&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content><category term="module-exercise"></category></entry><entry><title>Week 4</title><link href="http://fall18.cds101.com/materials/week-04-materials/" rel="alternate"></link><published>2018-09-17T08:00:00-04:00</published><updated>2018-09-17T08:00:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-17:/materials/week-04-materials/</id><summary type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;visualization&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Mini-assignments&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;First-time RStudio Server&amp;nbsp;setup&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Follow &lt;strong&gt;all&lt;/strong&gt; the directions in the repository linked below &lt;strong&gt;before&lt;/strong&gt; starting work on the two&amp;nbsp;mini-assignments.&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;RStudio Server Configuration&amp;nbsp;repository&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/assignments/rmarkdown-mini-assignment/"&gt;&lt;i class="fa fa-pen-square" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;R Markdown&amp;nbsp;mini-assignment&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/assignments/visualization-mini-assignment/"&gt;&lt;i class="fa fa-pen-square" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Visualization&amp;nbsp;mini-assignment&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-4"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week&amp;nbsp;4)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Readings&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/week-04-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 4 readings&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;!--
+
+[Videos]{.h3}
+
+**Data visualization - 01 - Data visualization as communication**
+
+--&gt;
+&lt;!--
+
+**Data visualization - 02 - Examining numerical data**
+
+--&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week04_data_visualization_01_data_visualization_as_communication.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Data visualization as&amp;nbsp;communication&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week04_data_visualization_02_examining_numerical_data.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 …&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;visualization&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Mini-assignments&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;First-time RStudio Server&amp;nbsp;setup&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Follow &lt;strong&gt;all&lt;/strong&gt; the directions in the repository linked below &lt;strong&gt;before&lt;/strong&gt; starting work on the two&amp;nbsp;mini-assignments.&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/mason-fa18-cds-101-dl1/configure-rstudio-server"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;RStudio Server Configuration&amp;nbsp;repository&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/assignments/rmarkdown-mini-assignment/"&gt;&lt;i class="fa fa-pen-square" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;R Markdown&amp;nbsp;mini-assignment&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/assignments/visualization-mini-assignment/"&gt;&lt;i class="fa fa-pen-square" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Visualization&amp;nbsp;mini-assignment&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-4"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week&amp;nbsp;4)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Readings&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/week-04-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 4 readings&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;!--
+
+[Videos]{.h3}
+
+**Data visualization - 01 - Data visualization as communication**
+
+--&gt;
+&lt;!--
+
+**Data visualization - 02 - Examining numerical data**
+
+--&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week04_data_visualization_01_data_visualization_as_communication.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Data visualization as&amp;nbsp;communication&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week04_data_visualization_02_examining_numerical_data.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - Examining numerical&amp;nbsp;data&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="class notes"></category></entry><entry><title>Week 3</title><link href="http://fall18.cds101.com/assignments/week-03-readings/" rel="alternate"></link><published>2018-09-16T23:59:00-04:00</published><updated>2018-09-16T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-16:/assignments/week-03-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="https://bookdown.org/yihui/rmarkdown/"&gt;R Markdown: The Definitive&amp;nbsp;Guide&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;From &lt;a href="https://bookdown.org/yihui/rmarkdown/basics.html"&gt;chapter 2&lt;/a&gt;: &lt;a href="https://bookdown.org/yihui/rmarkdown/basics.html"&gt;Ch. 2 introduction&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/compile.html"&gt;section 2.2&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/cheat-sheets.html"&gt;section 2.3&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/markdown-syntax.html"&gt;section 2.5&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/r-code.html"&gt;section&amp;nbsp;2.6&lt;/a&gt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="https://bookdown.org/yihui/rmarkdown/"&gt;R Markdown: The Definitive&amp;nbsp;Guide&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;From &lt;a href="https://bookdown.org/yihui/rmarkdown/basics.html"&gt;chapter 2&lt;/a&gt;: &lt;a href="https://bookdown.org/yihui/rmarkdown/basics.html"&gt;Ch. 2 introduction&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/compile.html"&gt;section 2.2&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/cheat-sheets.html"&gt;section 2.3&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/markdown-syntax.html"&gt;section 2.5&lt;/a&gt;, &lt;a href="https://bookdown.org/yihui/rmarkdown/r-code.html"&gt;section&amp;nbsp;2.6&lt;/a&gt;&lt;/p&gt;
 </content><category term="reading"></category></entry><entry><title>Week 3</title><link href="http://fall18.cds101.com/materials/week-03-materials/" rel="alternate"></link><published>2018-09-10T08:00:00-04:00</published><updated>2018-09-10T08:00:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-09-10:/materials/week-03-materials/</id><summary type="html">&lt;p&gt;&lt;span class="h2"&gt;Reproducible&amp;nbsp;toolbox&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/assignments/datacamp-exercises-week-3"&gt;DataCamp exercises (Week&amp;nbsp;3)&lt;/a&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-3"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week&amp;nbsp;3)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01 - Reproducible toolbox - Reproducibility in&amp;nbsp;science&lt;/strong&gt;&lt;/p&gt;
 &lt;!--html_preserve--&gt;
@@ -51,7 +271,14 @@
 &lt;/div&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Reproducible&amp;nbsp;toolbox&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/assignments/datacamp-exercises-week-3"&gt;DataCamp exercises (Week&amp;nbsp;3)&lt;/a&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-3"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week&amp;nbsp;3)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;01 - Reproducible toolbox - Reproducibility in&amp;nbsp;science&lt;/strong&gt;&lt;/p&gt;
 &lt;!--html_preserve--&gt;
@@ -222,8 +449,10 @@ data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Week 4&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Sep-17 – Sep-21&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Data visualization&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="/materials/week-04-materials/"&gt;&lt;i
+class="fas fa-chalkboard-teacher"
+data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="/assignments/week-04-readings/"&gt;Week 4 readings&lt;/a&gt;&lt;br&gt; &lt;a href="/assignments/datacamp-exercises-week-4/"&gt;Week 4 module exercises&lt;/a&gt;&lt;br&gt; &lt;a href="/assignments/rmarkdown-mini-assignment/"&gt;R Markdown mini-assignment&lt;/a&gt;&lt;br&gt; &lt;a href="/assignments/visualization-mini-assignment/"&gt;Visualization mini-assignment&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Week 5&lt;/td&gt;
