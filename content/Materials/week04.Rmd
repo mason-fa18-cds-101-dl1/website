@@ -50,26 +50,18 @@ icon_pen_square <- '<i class="fa fa-pen-square" data-fa-transform="grow-16"></i>
 :::
 <div style="margin-bottom: 1em"></div>
 
-<!--
-
 [Videos]{.h3}
 
 **Data visualization - 01 - Data visualization as communication**
 
--->
-
-```{r data-visualization-01-communication, echo = FALSE, eval = FALSE}
-# vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```{r data-visualization-01-communication, echo = FALSE}
+vembedr::embed_youtube(id = "W5Fnc4U3sS4", height = 350, allowfullscreen = TRUE, frameborder = 0)
 ```
-
-<!--
 
 **Data visualization - 02 - Examining numerical data**
 
--->
-
-```{r data-visualization-02-examining-numerical-data, echo = FALSE, eval = FALSE}
-# vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```{r data-visualization-02-examining-numerical-data, echo = FALSE}
+vembedr::embed_youtube(id = "Dtveq_kYlKQ", height = 350, allowfullscreen = TRUE, frameborder = 0)
 ```
 
 [Slides]{.h3}
