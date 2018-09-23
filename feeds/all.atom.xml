@@ -163,23 +163,8 @@
 &lt;div style="margin-bottom: 1em"&gt;
 
 &lt;/div&gt;
-&lt;!--
-
-[Videos]{.h3}
-
-**Data visualization - 01 - Data visualization as communication**
-
---&gt;
-&lt;!--
-
-**Data visualization - 02 - Examining numerical data**
-
---&gt;
-&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
-&lt;div class="no-bullets"&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week04_data_visualization_01_data_visualization_as_communication.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Data visualization as&amp;nbsp;communication&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/doc/week04_data_visualization_02_examining_numerical_data.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 …&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;visualization&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data visualization - 01 - Data visualization as …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;visualization&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Mini-assignments&lt;/span&gt;&lt;/p&gt;
 &lt;div class="callout secondary"&gt;
 &lt;p&gt;&lt;span class="h4"&gt;First-time RStudio Server&amp;nbsp;setup&lt;/span&gt;&lt;/p&gt;
@@ -218,18 +203,17 @@
 &lt;div style="margin-bottom: 1em"&gt;
 
 &lt;/div&gt;
-&lt;!--
-
-[Videos]{.h3}
-
-**Data visualization - 01 - Data visualization as communication**
-
---&gt;
-&lt;!--
-
-**Data visualization - 02 - Examining numerical data**
-
---&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data visualization - 01 - Data visualization as&amp;nbsp;communication&lt;/strong&gt;&lt;/p&gt;
+&lt;!--html_preserve--&gt;
+&lt;iframe src="https://www.youtube.com/embed/W5Fnc4U3sS4" width="420" height="350" frameborder="0" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;!--/html_preserve--&gt;
+&lt;p&gt;&lt;strong&gt;Data visualization - 02 - Examining numerical&amp;nbsp;data&lt;/strong&gt;&lt;/p&gt;
+&lt;!--html_preserve--&gt;
+&lt;iframe src="https://www.youtube.com/embed/Dtveq_kYlKQ" width="420" height="350" frameborder="0" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;!--/html_preserve--&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
 &lt;div class="no-bullets"&gt;
 &lt;ul&gt;
