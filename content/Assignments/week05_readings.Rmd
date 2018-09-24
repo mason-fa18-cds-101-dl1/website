@@ -1,0 +1,17 @@
+Title: Week 5
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-09-30 23:59
+Tags: reading
+Slug: week-05-readings
+Show_summary: false
+Show_link: false
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+From [chapter 3][r4ds-ch-3]: sections [3.6][r4ds-ch-3.6] through [3.10][r4ds-ch-3.10]
+
+[r4ds-book]:    http://r4ds.had.co.nz
+[r4ds-ch-3]:    http://r4ds.had.co.nz/data-visualisation.html
+[r4ds-ch-3.6]:  http://r4ds.had.co.nz/data-visualisation.html#geometric-objects
+[r4ds-ch-3.10]: http://r4ds.had.co.nz/data-visualisation.html#the-layered-grammar-of-graphics
