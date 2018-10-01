@@ -32,10 +32,18 @@ Week 5           Sep-24 – Sep-28      Data visualization                      
                                                                                                     data-fa-transform="grow-8">        [Homework 1]
                                                                                                     </i>][week05-materials]
 
-Week 6           Oct-01 – Oct-05      Data transformation
-
-Week 7           Oct-08 – Oct-12<br>  Data transformation                                                                              Midterm Exam
-                 Columbus Day
+Week 6           Oct-01 – Oct-05      Data transformation                                           [<i                                [Week 6 readings]<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Week 6 module exercises]<br>
+                                                                                                    data-fa-transform="grow-8">        [Homework 1 (continued)][Homework 1]
+                                                                                                    </i>][week06-materials]&emsp;
+                                                                                                    [<i
+                                                                                                    class="fab fa-github-alt"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][dplyr-demo-github-repo]
+                                                                                                    
+Week 7           Oct-08 – Oct-12<br>  Data transformation                                                                              Midterm Exam<br>
+                 Columbus Day                                                                                                          [Week 7 readings]<br>
+                                                                                                                                       [Week 7 module exercises]
 
 Week 8           Oct-15 – Oct-19      Data cleaning
 
@@ -64,14 +72,20 @@ Week 16          Dec-10 – Dec-14                                              
 [Week 3 readings]:               /assignments/week-03-readings/
 [Week 4 readings]:               /assignments/week-04-readings/
 [Week 5 readings]:               /assignments/week-05-readings/
+[Week 6 readings]:               /assignments/week-06-readings/
+[Week 7 readings]:               /assignments/week-07-readings/
 [week01-02-materials]:           /materials/week-01-02-materials/
 [week03-materials]:              /materials/week-03-materials/
 [week04-materials]:              /materials/week-04-materials/
 [week05-materials]:              /materials/week-05-materials/
+[week06-materials]:              /materials/week-06-materials/
 [Week 1 module exercise]:        /assignments/can-twitter-predict-election-results-module-exercise/
 [Week 3 module exercises]:       /assignments/datacamp-exercises-week-3/
 [Week 4 module exercises]:       /assignments/datacamp-exercises-week-4/
 [Week 5 module exercises]:       /assignments/datacamp-exercises-week-5/
+[Week 6 module exercises]:       /assignments/datacamp-exercises-week-6/
+[Week 7 module exercises]:       /assignments/datacamp-exercises-week-7/
+[dplyr-demo-github-repo]:        https://classroom.github.com/a/_Ylvc7ue
 [Homework 1]:                    /assignments/homework-1/
 [R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
 [Visualization mini-assignment]: /assignments/visualization-mini-assignment/

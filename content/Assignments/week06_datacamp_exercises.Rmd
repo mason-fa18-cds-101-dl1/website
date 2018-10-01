@@ -1,0 +1,23 @@
+Title: DataCamp exercises (Week 6)
+Author: Dr. Glasbrenner
+Date: 2018-10-08 23:59
+Tags: module-exercise
+Slug: datacamp-exercises-week-6
+Show_summary: false
+Show_link: false
+
+## Instructions
+
+On [Datacamp][datacamp-url], watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week's content.
+
+::::: {.callout .secondary}
+[Important!]{.h3}
+
+Your progress through these lessons is being tracked and completing them counts towards the *Module exercises* category of your grade. 
+:::::
+
+[From *Introduction to the Tidyverse*]{.h4}
+
+*   Data wrangling
+
+[datacamp-url]: https://datacamp.com
