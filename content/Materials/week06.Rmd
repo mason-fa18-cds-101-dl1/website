@@ -121,8 +121,8 @@ vembedr::embed_youtube(id = "BnscboiLaUM", height = 350, allowfullscreen = TRUE,
 [readings]:              /assignments/week-06-readings/
 [slides-01]:             /doc/week06_data_transformation_01_what_is_data_wrangling.pdf
 [slides-02]:             /doc/week06_data_transformation_02_the_presidential_dataset.pdf
-[slides-03]:             /doc/week06_data_transformation_03_the_pipe_operator.pdf
-[slides-04]:             /doc/week06_data_transformation_04_the_select_function.pdf
+[slides-03]:             /doc/week06_data_transformation_03_the_select_function.pdf
+[slides-04]:             /doc/week06_data_transformation_04_the_pipe_operator.pdf
 [slides-05]:             /doc/week06_data_transformation_05_the_arrange_function.pdf
 [slides-06]:             /doc/week06_data_transformation_06_the_slice_function.pdf
 [slides-07]:             /doc/week06_data_transformation_07_boolean_logic.pdf
