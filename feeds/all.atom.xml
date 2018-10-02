@@ -209,32 +209,9 @@
 
 &lt;/div&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Data transformation - 01 - What is data&amp;nbsp;wrangling?&lt;/strong&gt;&lt;/p&gt;
-&lt;!--html_preserve--&gt;
-&lt;iframe src="https://www.youtube.com/embed/j8tKN7Iw5dw" width="420" height="350" frameborder="0" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;!--/html_preserve--&gt;
-&lt;p&gt;&lt;strong&gt;Data transformation - 02 - The presidential&amp;nbsp;dataset&lt;/strong&gt;&lt;/p&gt;
-&lt;!--html_preserve--&gt;
-&lt;iframe src="https://www.youtube.com/embed/wP6xGaTdfVc" width="420" height="350" frameborder="0" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;!--/html_preserve--&gt;
-&lt;p&gt;&lt;strong&gt;Data transformation - 03 - The select&amp;nbsp;function&lt;/strong&gt;&lt;/p&gt;
-&lt;!--html_preserve--&gt;
-&lt;iframe src="https://www.youtube.com/embed/bfmMYUOWnls" width="420" height="350" frameborder="0" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;!--/html_preserve--&gt;
-&lt;p&gt;&lt;strong&gt;Data transformation - 04 - The pipe&amp;nbsp;operator&lt;/strong&gt;&lt;/p&gt;
-&lt;!--html_preserve--&gt;
-&lt;iframe src="https://www.youtube.com/embed/SdrBENv3F-s" width="420" height="350" frameborder="0" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;!--/html_preserve--&gt;
-&lt;p&gt;&lt;strong&gt;Data transformation - 05 - The arrange&amp;nbsp;function&lt;/strong&gt;&lt;/p&gt;
-&lt;!--html_preserve--&gt;
-&lt;iframe src="https://www.youtube.com/embed/9Hnz8KEBCUc" width="420" height="350" frameborder="0" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;!--/html_preserve--&gt;
-&lt;p&gt;&lt;strong&gt;Data …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;transformation&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;Starter files for lecture&amp;nbsp;demos&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Below is the download link that you should click to get a copy of the starter files you’ll need to have when following along with the …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;transformation&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Homework&amp;nbsp;assignment&lt;/span&gt;&lt;/p&gt;
 &lt;div class="no-bullets"&gt;
 &lt;ul&gt;
@@ -263,6 +240,15 @@
 
 &lt;/div&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h4"&gt;Starter files for lecture&amp;nbsp;demos&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Below is the download link that you should click to get a copy of the starter files you’ll need to have when following along with the lecture&amp;nbsp;demos.&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://classroom.github.com/a/_Ylvc7ue"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;dplyr demonstration starter&amp;nbsp;files&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Data transformation - 01 - What is data&amp;nbsp;wrangling?&lt;/strong&gt;&lt;/p&gt;
 &lt;!--html_preserve--&gt;
 &lt;iframe src="https://www.youtube.com/embed/j8tKN7Iw5dw" width="420" height="350" frameborder="0" allowfullscreen&gt;
@@ -866,6 +852,8 @@ data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Data transformation&lt;/td&gt;
 &lt;td&gt;&lt;a href="/materials/week-06-materials/"&gt;&lt;i
 class="fas fa-chalkboard-teacher"
+data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;  &lt;a href="https://classroom.github.com/a/_Ylvc7ue"&gt;&lt;i
+class="fab fa-github-alt"
 data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a href="/assignments/week-06-readings/"&gt;Week 6 readings&lt;/a&gt;&lt;br&gt; &lt;a href="/assignments/datacamp-exercises-week-6/"&gt;Week 6 module exercises&lt;/a&gt;&lt;br&gt; &lt;a href="/assignments/homework-1/"&gt;Homework 1 (continued)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
