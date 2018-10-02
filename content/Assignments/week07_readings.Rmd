@@ -1,0 +1,18 @@
+Title: Week 7
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-10-14 23:59
+Tags: reading
+Slug: week-07-readings
+Show_summary: false
+Show_link: false
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+From [chapter 5][r4ds-ch-5]: sections [5.5][r4ds-ch-5.5] through [5.7][r4ds-ch-5.7]
+
+[r4ds-book]:    http://r4ds.had.co.nz
+[r4ds-ch-4]:    http://r4ds.had.co.nz/workflow-basics.html
+[r4ds-ch-5]:    http://r4ds.had.co.nz/transform.html
+[r4ds-ch-5.5]:  http://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate
+[r4ds-ch-5.7]:  http://r4ds.had.co.nz/transform.html#grouped-mutates-and-filters
