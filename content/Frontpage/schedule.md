@@ -43,7 +43,8 @@ Week 6           Oct-01 – Oct-05      Data transformation                     
                                                                                                     
 Week 7           Oct-08 – Oct-12<br>  Data transformation                                                                              Midterm Exam<br>
                  Columbus Day                                                                                                          [Week 7 readings]<br>
-                                                                                                                                       [Week 7 module exercises]
+                                                                                                                                       [Week 7 module exercises]<br>
+                                                                                                                                       [Homework 1 (Group)]
 
 Week 8           Oct-15 – Oct-19      Data cleaning
 
@@ -87,5 +88,6 @@ Week 16          Dec-10 – Dec-14                                              
 [Week 7 module exercises]:       /assignments/datacamp-exercises-week-7/
 [dplyr-demo-github-repo]:        https://classroom.github.com/a/_Ylvc7ue
 [Homework 1]:                    /assignments/homework-1/
+[Homework 1 (Group)]:            /assignments/homework-1-group/
 [R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
 [Visualization mini-assignment]: /assignments/visualization-mini-assignment/
