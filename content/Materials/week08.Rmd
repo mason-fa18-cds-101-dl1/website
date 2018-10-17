@@ -1,0 +1,87 @@
+Title: Week 8
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-10-16 08:00
+Tags: class notes
+Slug: week-08-materials
+Show_summary: false
+Show_link: false
+
+```{r setup, include = FALSE}
+icon_pdf <- '<i class="fas fa-file-pdf" data-fa-transform="grow-16"></i>&nbsp;'
+icon_book <- '<i class="fa fa-book" data-fa-transform="grow-16"></i>&nbsp;'
+icon_github <- '<i class="fab fa-github-alt" data-fa-transform="grow-8"></i>&nbsp;'
+icon_pencil <- '<i class="fas fa-pencil-alt" data-fa-transform="grow-16"></i>&nbsp;'
+icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
+```
+
+[Data transformation]{.h2}
+
+[Homework assignment]{.h3}
+
+::: {.no-bullets}
+*   `r icon_pencil` &nbsp; [Homework 2]{.card-downloads-format}
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Module exercises]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_laptop` &nbsp; [DataCamp exercises (Week 8)]{.card-downloads-format}][module-exercises]
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Readings]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_book` &nbsp; [Week 8 readings]{.card-downloads-format}][readings]
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Videos]{.h3}
+
+::: {.callout .secondary}
+[Starter files for lecture demos]{.h4}
+
+Below is the download link that you should click to get a copy of the starter files you'll need to have when following along with the lecture demos. 
+
+::::: {.no-bullets}
+*   [`r icon_github` &nbsp; [dplyr demonstration starter files]{.card-downloads-format}][dplyr-demo-repo]
+:::::
+:::
+
+**Data transformation - 09 - The mutate function**
+
+```{r data-transformation-09-the-mutate-function, echo = FALSE}
+vembedr::embed_youtube(id = "1YuxbvsaErk", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data transformation - 10 - The group\_by and summarize functions**
+
+```{r data-visualization-10-the-group-by-and-summarize-functions, echo = FALSE}
+vembedr::embed_youtube(id = "5UOC4b2_G8s", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data transformation - 11 - Other helpful dplyr verbs**
+
+```{r data-visualization-11-other-helpful-dplyr-verbs, echo = FALSE}
+vembedr::embed_youtube(id = "ZTL_tP70-zo", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+[Slides]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pdf` &nbsp; [09 - The [mutate]{.monospace} function]{.card-downloads-format}][slides-09]
+
+*   [`r icon_pdf` &nbsp; [10 - The [group\_by]{.monospace} and [summarize]{.monospace} functions]{.card-downloads-format}][slides-10]
+
+*   [`r icon_pdf` &nbsp; [11 - Other helpful dplyr verbs]{.card-downloads-format}][slides-11]
+:::
+
+[readings]:              /assignments/week-08-readings/
+[slides-09]:             /doc/week08_data_transformation_09_the_mutate_function.pdf
+[slides-10]:             /doc/week08_data_transformation_10_the_group_by_and_summarize_functions.pdf
+[slides-11]:             /doc/week08_data_transformation_11_other_helpful_dplyr_verbs.pdf
+[dplyr-demo-repo]:       https://classroom.github.com/a/_Ylvc7ue
+[module-exercises]:      /assignments/datacamp-exercises-week-8
+[homework-2-assignment]: /assignments/homework-2/

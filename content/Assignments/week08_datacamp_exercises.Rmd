@@ -1,8 +1,8 @@
-Title: DataCamp exercises (Week 7)
+Title: DataCamp exercises (Week 8)
 Author: Dr. Glasbrenner
-Date: 2018-10-15 23:59
+Date: 2018-10-22 23:59
 Tags: module-exercise
-Slug: datacamp-exercises-week-7
+Slug: datacamp-exercises-week-8
 Show_summary: false
 Show_link: false
 
