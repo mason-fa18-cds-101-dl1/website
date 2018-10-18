@@ -6,7 +6,7 @@ Url: /index.html
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Week             Dates                Topic                                                         Materials                          Assignments
----------------- -------------------- ------------------------------------------------------------- ---------                          -----------------------------
+---------------- -------------------- ------------------------------------------------------------- ---------                          ---------------------------------------
 Week 1           Aug-27 – Aug-31      Course orientation                                            [<i                                [Week 1 readings]<br>
                                                                                                     class="fas fa-chalkboard-teacher"  [Week 1 module exercise]
                                                                                                     data-fa-transform="grow-8">
@@ -44,9 +44,9 @@ Week 6           Oct-01 – Oct-05      Data transformation                     
 Week 7           Oct-08 – Oct-12<br>  Midterm Exam week                                                                                Midterm Exam<br>
                  Columbus Day                                                                                                          [Homework 1 (Group)]
 
-Week 8           Oct-15 – Oct-19      Data transformation                                           [<i                                [Week 8 readings]<br>
-                                                                                                    class="fas fa-chalkboard-teacher"  [Week 8 module exercises]<br>
-                                                                                                    data-fa-transform="grow-8">        Homework 2 (To be posted)
+Week 8           Oct-15 – Oct-19      Data transformation                                           [<i                                [Week 8 readings] (Due: Oct-21)<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Week 8 module exercises] (Due: Oct-22)<br>
+                                                                                                    data-fa-transform="grow-8">        [Homework 2] (Due: Oct-26)
                                                                                                     </i>][week08-materials]&emsp;
                                                                                                     [<i
                                                                                                     class="fab fa-github-alt"

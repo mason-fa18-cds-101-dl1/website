@@ -20,25 +20,27 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 [Homework assignment]{.h3}
 
 ::: {.no-bullets}
-*   `r icon_pencil` &nbsp; [Homework 2]{.card-downloads-format}
+*   [`r icon_pencil` &nbsp; [Homework 2]{.card-downloads-format}][homework-2-assignment] (Due: Oct-26)
 :::
 <div style="margin-bottom: 1em"></div>
 
 [Module exercises]{.h3}
 
 ::: {.no-bullets}
-*   [`r icon_laptop` &nbsp; [DataCamp exercises (Week 8)]{.card-downloads-format}][module-exercises]
+*   [`r icon_laptop` &nbsp; [DataCamp exercises (Week 8)]{.card-downloads-format}][module-exercises] (Due: Oct-22)
 :::
 <div style="margin-bottom: 1em"></div>
 
 [Readings]{.h3}
 
 ::: {.no-bullets}
-*   [`r icon_book` &nbsp; [Week 8 readings]{.card-downloads-format}][readings]
+*   [`r icon_book` &nbsp; [Week 8 readings]{.card-downloads-format}][readings] (Due: Oct-21)
 :::
 <div style="margin-bottom: 1em"></div>
 
 [Videos]{.h3}
+
+(Due: Oct-21)
 
 ::: {.callout .secondary}
 [Starter files for lecture demos]{.h4}
