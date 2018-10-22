@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-10-26T23:59:00-04:00</updated><entry><title>Homework 2</title><link href="http://fall18.cds101.com/assignments/homework-2/" rel="alternate"></link><published>2018-10-26T23:59:00-04:00</published><updated>2018-10-26T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-26:/assignments/homework-2/</id><summary type="html">For your second homework assignment, you will explore a dataset about the passengers on the &lt;em&gt;Titanic&lt;/em&gt;, the British passenger liner that crashed into an iceberg during its maiden voyage and sank early in the morning on April 16,&amp;nbsp;1912.</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;strong&gt;Individual submissions due:&lt;/strong&gt; October 26, 2018 @&amp;nbsp;11:59pm&lt;/span&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDS-101: Introduction to Computational and Data Sciences</title><link href="http://fall18.cds101.com/" rel="alternate"></link><link href="http://fall18.cds101.com/feeds/all.atom.xml" rel="self"></link><id>http://fall18.cds101.com/</id><updated>2018-11-05T23:59:00-05:00</updated><entry><title>DataCamp exercises (Week 10)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-10/" rel="alternate"></link><published>2018-11-05T23:59:00-05:00</published><updated>2018-11-05T23:59:00-05:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-11-05:/assignments/datacamp-exercises-week-10/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From &lt;em&gt;Working with data in the Tidyverse&lt;/em&gt; (Due:&amp;nbsp;Nov-05)&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Tidy your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Transform your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="module-exercise"></category></entry><entry><title>DataCamp exercises (Week 9)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-9/" rel="alternate"></link><published>2018-10-29T23:59:00-04:00</published><updated>2018-10-29T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-29:/assignments/datacamp-exercises-week-9/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
+&lt;p&gt;On &lt;a href="https://datacamp.com"&gt;Datacamp&lt;/a&gt;, watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week’s&amp;nbsp;content.&lt;/p&gt;
+&lt;div class="callout secondary"&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Important!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Your progress through these lessons is being tracked and completing them counts towards the &lt;em&gt;Module exercises&lt;/em&gt; category of your&amp;nbsp;grade.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From &lt;em&gt;Working with data in the Tidyverse&lt;/em&gt; (Due:&amp;nbsp;Oct-29)&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout primary"&gt;
+&lt;p&gt;You will be completing the full course, &lt;em&gt;Working with data in the Tidyverse&lt;/em&gt;, over the next two weeks. Chapter 3 of the course, “Tidy your data”, provides you with practice using the &lt;span class="monospace"&gt;tidyr&lt;/span&gt; package. However, the lessons in chapter 3 assume you’re familiar with the content in chapters 1 and 2, so it’s best to complete those&amp;nbsp;first.&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Explore your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Tame your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class="h4"&gt;From &lt;em&gt;Working with data in the Tidyverse&lt;/em&gt; (Due:&amp;nbsp;Nov-05)&lt;/span&gt;&lt;/p&gt;
+&lt;div class="callout primary"&gt;
+&lt;p&gt;&lt;strong&gt;These are the module exercises for week 10.&lt;/strong&gt; If you complete the first two chapters and want to get started on chapters 3 and 4 now, you may do&amp;nbsp;so.&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Tidy your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Transform your&amp;nbsp;data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="module-exercise"></category></entry><entry><title>Week 9</title><link href="http://fall18.cds101.com/assignments/week-09-readings/" rel="alternate"></link><published>2018-10-28T23:59:00-04:00</published><updated>2018-10-28T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-28:/assignments/week-09-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/tidy-data.html"&gt;chapter 12&lt;/a&gt;: from the beginning through to the end of &lt;a href="http://r4ds.had.co.nz/tidy-data.html#missing-values-3"&gt;section&amp;nbsp;12.5&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/tidy-data.html"&gt;chapter 12&lt;/a&gt;: from the beginning through to the end of &lt;a href="http://r4ds.had.co.nz/tidy-data.html#missing-values-3"&gt;section&amp;nbsp;12.5&lt;/a&gt;&lt;/p&gt;
+</content><category term="reading"></category></entry><entry><title>Homework 2</title><link href="http://fall18.cds101.com/assignments/homework-2/" rel="alternate"></link><published>2018-10-26T23:59:00-04:00</published><updated>2018-10-26T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-26:/assignments/homework-2/</id><summary type="html">For your second homework assignment, you will explore a dataset about the passengers on the &lt;em&gt;Titanic&lt;/em&gt;, the British passenger liner that crashed into an iceberg during its maiden voyage and sank early in the morning on April 16,&amp;nbsp;1912.</summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;strong&gt;Individual submissions due:&lt;/strong&gt; October 26, 2018 @&amp;nbsp;11:59pm&lt;/span&gt;&lt;/p&gt;
 &lt;div class="no-bullets"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://classroom.github.com/a/fimwncxI"&gt;&lt;i class="fab fa-github-alt" data-fa-transform="grow-8"&gt;&lt;/i&gt;  Github Classroom repo for &lt;strong&gt;Homework&amp;nbsp;2&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -209,7 +258,143 @@ A photograph of the &lt;em&gt;Titanic&lt;/em&gt; leaving Southampton on April 10
 &lt;ul&gt;
 &lt;li&gt;Grouping and&amp;nbsp;summarizing&lt;/li&gt;
 &lt;/ul&gt;
-</content><category term="module-exercise"></category></entry><entry><title>Week 8</title><link href="http://fall18.cds101.com/assignments/week-08-readings/" rel="alternate"></link><published>2018-10-21T23:59:00-04:00</published><updated>2018-10-21T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-21:/assignments/week-08-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</content><category term="module-exercise"></category></entry><entry><title>Week 9</title><link href="http://fall18.cds101.com/materials/week-09-materials/" rel="alternate"></link><published>2018-10-22T08:00:00-04:00</published><updated>2018-10-22T08:00:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-22:/materials/week-09-materials/</id><summary type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;reshaping&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Homework&amp;nbsp;assignment&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/homework-2/"&gt;&lt;i class="fas fa-pencil-alt" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Homework 2 (continued)&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-26)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-9"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week 9)&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-29)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Readings&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/week-09-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 9 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-28)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;To be&amp;nbsp;posted…&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!--
+(Due: Oct-28)
+
+**Data reshaping - 01 - Principles of tidy data**
+
+
+
+**Data reshaping - 02 - The gather function**
+
+
+
+**Data reshaping - 03 - The spread function**
+
+
+
+**Data reshaping - 04 - The separate function**
+
+
+
+**Data reshaping - 05 - The unite function**
+
+
+
+--&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_01_principles_of_tidy_data.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Principles of tidy&amp;nbsp;data&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_02_the_gather_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - The &lt;span class="monospace"&gt;gather&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_03_the_spread_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - The &lt;span class="monospace"&gt;spread&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_04_the_separate_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - The &lt;span class="monospace"&gt;separate&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week09_data_reshaping_05_the_unite_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;05 - The &lt;span class="monospace"&gt;unite&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;reshaping&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Homework&amp;nbsp;assignment&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/homework-2/"&gt;&lt;i class="fas fa-pencil-alt" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Homework 2 (continued)&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-26)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Module&amp;nbsp;exercises&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/datacamp-exercises-week-9"&gt;&lt;i class="fa fa-laptop" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;DataCamp exercises (Week 9)&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-29)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Readings&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/assignments/week-09-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 9 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Oct-28)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Videos&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;To be&amp;nbsp;posted…&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!--
+(Due: Oct-28)
+
+**Data reshaping - 01 - Principles of tidy data**
+
+
+
+**Data reshaping - 02 - The gather function**
+
+
+
+**Data reshaping - 03 - The spread function**
+
+
+
+**Data reshaping - 04 - The separate function**
+
+
+
+**Data reshaping - 05 - The unite function**
+
+
+
+--&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_01_principles_of_tidy_data.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Principles of tidy&amp;nbsp;data&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_02_the_gather_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - The &lt;span class="monospace"&gt;gather&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_03_the_spread_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - The &lt;span class="monospace"&gt;spread&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week09_data_reshaping_04_the_separate_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - The &lt;span class="monospace"&gt;separate&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week09_data_reshaping_05_the_unite_function.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;05 - The &lt;span class="monospace"&gt;unite&lt;/span&gt;&amp;nbsp;function&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</content><category term="class notes"></category></entry><entry><title>Week 8</title><link href="http://fall18.cds101.com/assignments/week-08-readings/" rel="alternate"></link><published>2018-10-21T23:59:00-04:00</published><updated>2018-10-21T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-21:/assignments/week-08-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/transform.html"&gt;chapter 5&lt;/a&gt;: sections &lt;a href="http://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate"&gt;5.5&lt;/a&gt; through &lt;a href="http://r4ds.had.co.nz/transform.html#grouped-mutates-and-filters"&gt;5.7&lt;/a&gt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://r4ds.had.co.nz"&gt;R for Data&amp;nbsp;Science&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;From &lt;a href="http://r4ds.had.co.nz/transform.html"&gt;chapter 5&lt;/a&gt;: sections &lt;a href="http://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate"&gt;5.5&lt;/a&gt; through &lt;a href="http://r4ds.had.co.nz/transform.html#grouped-mutates-and-filters"&gt;5.7&lt;/a&gt;&lt;/p&gt;
@@ -456,9 +641,9 @@ A photograph of the &lt;em&gt;Titanic&lt;/em&gt; leaving Southampton on April 10
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Several of these questions ask for explanations after obtaining the correct answer. For these, you do not have to write very long responses, just write enough to express the correct answer. When you are assigned into groups, that is when you will need to write everything out in full&amp;nbsp;sentences.&lt;/p&gt;
 &lt;h2 id="the-rail-trail-dataset"&gt;The rail trail&amp;nbsp;dataset&lt;/h2&gt;
-&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/mass-central-logo.jpg" title="plot of chunk mass-central-logo" alt="plot of chunk mass-central-logo" width="300px" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/img/mass-central-logo.jpg" title="plot of chunk mass-central-logo" alt="plot of chunk mass-central-logo" width="300px" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;For this homework assignment, you will be working though a set of visualization problems based on the &lt;code&gt;rail_trail&lt;/code&gt; dataset. The &lt;code&gt;rail_trail&lt;/code&gt; dataset was collected by the Pioneer Valley Planning Commission (&lt;span class="caps"&gt;PVPC&lt;/span&gt;) and counts the number of people that walked through a sensor on a &lt;em&gt;rail trail&lt;/em&gt; during a ninety day period. &lt;a href="https://wikipedia.org/wiki/Rail_trail"&gt;A &lt;em&gt;rail trail&lt;/em&gt; is a retired or abandoned railway that was converted into a walking trail&lt;/a&gt;. The data was collected from April 5, 2005 to November 15, 2005 using a laser sensor placed at a location north of Chestnut Street in Florence, &lt;span class="caps"&gt;MA&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/florence-chestnut-street-rail-trail.png" title="plot of chunk florence-ma-chestnut" alt="plot of chunk florence-ma-chestnut" width="50%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/img/florence-chestnut-street-rail-trail.png" title="plot of chunk florence-ma-chestnut" alt="plot of chunk florence-ma-chestnut" width="50%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;The dataset contains the following&amp;nbsp;variables:&lt;/p&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
@@ -527,7 +712,7 @@ A photograph of the &lt;em&gt;Titanic&lt;/em&gt; leaving Southampton on April 10
   geom_count(mapping = aes(x = season, y = weekday))&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Which circle in the plot takes up the most area? Explain the meaning of the different size circles in the plot and what information it contains that is missing in the previous scatter&amp;nbsp;plot.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Run &lt;code&gt;?geom_bar&lt;/code&gt; in the &lt;em&gt;Console&lt;/em&gt; window and read the documentation for &lt;code&gt;geom_bar()&lt;/code&gt;, and then look at the entry for it on the &lt;a href="/doc/ggplot2-cheatsheet.pdf"&gt;ggplot2 cheatsheet&lt;/a&gt; Use &lt;code&gt;geom_bar()&lt;/code&gt; to reproduce the following bar&amp;nbsp;chart:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/seasons-bar-chart-1.svg" title="plot of chunk seasons-bar-chart" alt="plot of chunk seasons-bar-chart" width="70%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/img/seasons-bar-chart-1.svg" title="plot of chunk seasons-bar-chart" alt="plot of chunk seasons-bar-chart" width="70%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;After reproducing the plot, explain what the height of each bar&amp;nbsp;means.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Starting from the code snippet you deduced in question 7, create two more bar&amp;nbsp;charts:&lt;/p&gt;
 &lt;ul&gt;
@@ -1277,21 +1462,23 @@ data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Week 9&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Oct-22 – Oct-26&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Data cleaning&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Data reshaping (Tidy data)&lt;/td&gt;
+&lt;td&gt;&lt;a href="/materials/week-09-materials/"&gt;&lt;i
+class="fas fa-chalkboard-teacher"
+data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="/assignments/week-09-readings/"&gt;Week 9 readings&lt;/a&gt; (Due: Oct-28)&lt;br&gt; &lt;a href="/assignments/datacamp-exercises-week-9/"&gt;Week 9 module exercises&lt;/a&gt; (Due: Oct-29)&lt;br&gt; &lt;a href="/assignments/homework-2/"&gt;Homework 2 (continued)&lt;/a&gt; (Due: Oct-26)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;Week 10&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Oct-29 – Nov-02&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Data reshaping (Tidy data)&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Data distributions&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a href="/assignments/datacamp-exercises-week-10/"&gt;Week 10 module exercises&lt;/a&gt; (Due: Nov-05)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Week 11&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Nov-05 – Nov-09&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Data distributions&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Inference and simulation&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1305,7 +1492,7 @@ data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Week 13&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Nov-19 – Nov-23&lt;br&gt; Thanksgiving Day&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Inference and simulation&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Modeling&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1319,7 +1506,7 @@ data-fa-transform="grow-8"&gt; &lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Week 15&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;Dec-03 – Dec-07&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;Modeling&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;Web scraping&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;/td&gt;
 &lt;/tr&gt;
