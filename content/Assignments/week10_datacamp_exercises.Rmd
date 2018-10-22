@@ -1,0 +1,25 @@
+Title: DataCamp exercises (Week 10)
+Author: Dr. Glasbrenner
+Date: 2018-11-05 23:59
+Tags: module-exercise
+Slug: datacamp-exercises-week-10
+Show_summary: false
+Show_link: false
+
+## Instructions
+
+On [Datacamp][datacamp-url], watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week's content.
+
+::::: {.callout .secondary}
+[Important!]{.h3}
+
+Your progress through these lessons is being tracked and completing them counts towards the *Module exercises* category of your grade. 
+:::::
+
+[From *Working with data in the Tidyverse* (Due: Nov-05)]{.h4}
+
+*   Tidy your data
+
+*   Transform your data
+
+[datacamp-url]: https://datacamp.com

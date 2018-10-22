@@ -1,0 +1,16 @@
+Title: Week 9
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-10-28 23:59
+Tags: reading
+Slug: week-09-readings
+Show_summary: false
+Show_link: false
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+From [chapter 12][r4ds-ch-12]: from the beginning through to the end of [section 12.5][r4ds-ch-12.5]
+
+[r4ds-book]:    http://r4ds.had.co.nz
+[r4ds-ch-12]:   http://r4ds.had.co.nz/tidy-data.html
+[r4ds-ch-12.5]: http://r4ds.had.co.nz/tidy-data.html#missing-values-3

@@ -1,0 +1,103 @@
+Title: Week 9
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-10-22 08:00
+Tags: class notes
+Slug: week-09-materials
+Show_summary: false
+Show_link: false
+
+```{r setup, include = FALSE}
+icon_pdf <- '<i class="fas fa-file-pdf" data-fa-transform="grow-16"></i>&nbsp;'
+icon_book <- '<i class="fa fa-book" data-fa-transform="grow-16"></i>&nbsp;'
+icon_github <- '<i class="fab fa-github-alt" data-fa-transform="grow-8"></i>&nbsp;'
+icon_pencil <- '<i class="fas fa-pencil-alt" data-fa-transform="grow-16"></i>&nbsp;'
+icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
+```
+
+[Data reshaping]{.h2}
+
+[Homework assignment]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pencil` &nbsp; [Homework 2 (continued)]{.card-downloads-format}][homework-2-assignment] (Due: Oct-26)
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Module exercises]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_laptop` &nbsp; [DataCamp exercises (Week 9)]{.card-downloads-format}][module-exercises] (Due: Oct-29)
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Readings]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_book` &nbsp; [Week 9 readings]{.card-downloads-format}][readings] (Due: Oct-28)
+:::
+<div style="margin-bottom: 1em"></div>
+
+[Videos]{.h3}
+
+::: {.no-bullets}
+*   ***To be posted...***
+:::
+
+<!--
+(Due: Oct-28)
+
+**Data reshaping - 01 - Principles of tidy data**
+
+```{r data-reshaping-01-principles-of-tidy-data, echo = FALSE, eval = FALSE}
+vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data reshaping - 02 - The gather function**
+
+```{r data-reshaping-02-the-gather-function, echo = FALSE, eval = FALSE}
+vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data reshaping - 03 - The spread function**
+
+```{r data-reshaping-03-the-spread-function, echo = FALSE, eval = FALSE}
+vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data reshaping - 04 - The separate function**
+
+```{r data-reshaping-04-the-separate-function, echo = FALSE, eval = FALSE}
+vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+**Data reshaping - 05 - The unite function**
+
+```{r data-reshaping-05-the-unite-function, echo = FALSE, eval = FALSE}
+vembedr::embed_youtube(id = "", height = 350, allowfullscreen = TRUE, frameborder = 0)
+```
+
+-->
+
+[Slides]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pdf` &nbsp; [01 - Principles of tidy data]{.card-downloads-format}][slides-01]
+
+*   [`r icon_pdf` &nbsp; [02 - The [gather]{.monospace} function]{.card-downloads-format}][slides-02]
+
+*   [`r icon_pdf` &nbsp; [03 - The [spread]{.monospace} function]{.card-downloads-format}][slides-03]
+
+*   [`r icon_pdf` &nbsp; [04 - The [separate]{.monospace} function]{.card-downloads-format}][slides-04]
+
+*   [`r icon_pdf` &nbsp; [05 - The [unite]{.monospace} function]{.card-downloads-format}][slides-05]
+:::
+
+[readings]:              /assignments/week-09-readings/
+[slides-01]:             /doc/week09_data_reshaping_01_principles_of_tidy_data.pdf
+[slides-02]:             /doc/week09_data_reshaping_02_the_gather_function.pdf
+[slides-03]:             /doc/week09_data_reshaping_03_the_spread_function.pdf
+[slides-04]:             /doc/week09_data_reshaping_04_the_separate_function.pdf
+[slides-05]:             /doc/week09_data_reshaping_05_the_unite_function.pdf
+[module-exercises]:      /assignments/datacamp-exercises-week-9
+[homework-2-assignment]: /assignments/homework-2/

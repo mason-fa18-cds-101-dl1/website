@@ -1,0 +1,42 @@
+Title: DataCamp exercises (Week 9)
+Author: Dr. Glasbrenner
+Date: 2018-10-29 23:59
+Tags: module-exercise
+Slug: datacamp-exercises-week-9
+Show_summary: false
+Show_link: false
+
+## Instructions
+
+On [Datacamp][datacamp-url], watch the tutorial videos and complete the interactive coding challenges from the following lessons, which will let you practice and supplement this week's content.
+
+::::: {.callout .secondary}
+[Important!]{.h3}
+
+Your progress through these lessons is being tracked and completing them counts towards the *Module exercises* category of your grade. 
+:::::
+
+[From *Working with data in the Tidyverse* (Due: Oct-29)]{.h4}
+
+::::: {.callout .primary}
+You will be completing the full course, *Working with data in the Tidyverse*, over the next two weeks.
+Chapter 3 of the course, "Tidy your data", provides you with practice using the [tidyr]{.monospace} package.
+However, the lessons in chapter 3 assume you're familiar with the content in chapters 1 and 2, so it's best to complete those first.
+:::::
+
+*   Explore your data
+
+*   Tame your data
+
+[From *Working with data in the Tidyverse* (Due: Nov-05)]{.h4}
+
+::::: {.callout .primary}
+**These are the module exercises for week 10.**
+If you complete the first two chapters and want to get started on chapters 3 and 4 now, you may do so.
+:::::
+
+*   Tidy your data
+
+*   Transform your data
+
+[datacamp-url]: https://datacamp.com
