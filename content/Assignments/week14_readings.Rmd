@@ -1,0 +1,35 @@
+Title: Week 14
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-12-02 23:59
+Tags: reading
+Slug: week-14-readings
+Show_summary: false
+Show_link: false
+
+[[Introductory Statistics with Randomization and Simulation][isrs-book]]{.h3}
+
+[Click here][isrs-book] to download the textbook.
+
+**Chapter 5: Introduction to linear regression**
+
+*   From the beginning through to the end of section 5.1.4
+
+*   Section 5.4.1
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+**Chapter 22: Introduction to Model section**
+
+*   Full chapter (short): <http://r4ds.had.co.nz/model-intro.html>
+
+**Chapter 23: Model basics**
+
+*   Section 23.1 – Introduction: <https://r4ds.had.co.nz/model-basics.html>
+
+*   Section 23.2 – A simple model: <https://r4ds.had.co.nz/model-basics.html#a-simple-model>
+
+*   Section 23.3 – Visualizing models: <https://r4ds.had.co.nz/model-basics.html#visualising-models>
+
+[isrs-book]: /doc/Diez_Barr_%C3%87etinkaya-Rundel_IntroductoryStatisticsWithRandomizationAndSimulation.pdf
+[r4ds-book]: http://r4ds.had.co.nz

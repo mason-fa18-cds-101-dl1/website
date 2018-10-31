@@ -1,0 +1,41 @@
+Title: Week 16
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-12-16 23:59
+Tags: reading
+Slug: week-16-readings
+Show_summary: false
+Show_link: false
+
+```{r setup, include = FALSE}
+icon_html5 <- '<i class="fab fa-html5" data-fa-transform="grow-16"></i>&nbsp;'
+icon_link_inline <- '<i class="fas fa-link" data-fa-transform="grow-4"></i>&nbsp;'
+icon_pdf <- '<i class="fas fa-file-pdf" data-fa-transform="grow-16"></i>&nbsp;'
+```
+
+::: {.callout .secondary}
+This reading is optional, but is recommended if you want to attempt completing the extra credit homework assignment.
+:::
+
+[Tutorials]{.h3}
+
+Read the following tutorials on the [rvest]{.monospace} package and [SelectorGadget][selectorgadget-url] Chrome extension.
+
+[Beginner’s Guide on Web Scraping in R (using rvest) with hands-on example]{.h4}
+
+::: {.no-bullets}
+*   [`r icon_pdf` &nbsp; [PDF]{.card-downloads-format}][analytics-vidha-rvest-pdf]
+
+*   [`r icon_link_inline` [LINK]{.card-downloads-format}][analytics-vidha-rvest]
+:::
+
+[SelectorGadget Vignette]{.h4}
+
+::: {.no-bullets}
+*   [`r icon_html5` &nbsp; [HTML]{.card-downloads-format}][selectorgadget-vignette]
+:::
+
+[selectorgadget-url]:        https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb
+[analytics-vidha-rvest]:     https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
+[selectorgadget-vignette]:   /doc/rvest-selectorgadget-vignette.html
+[analytics-vidha-rvest-pdf]: /doc/saurav_kaushik__beginners_guide_on_web_scraping_in_r_with_hands-on_example.pdf

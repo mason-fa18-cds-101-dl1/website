@@ -58,20 +58,37 @@ Week 9           Oct-22 – Oct-26      Data reshaping (Tidy data)              
                                                                                                     data-fa-transform="grow-8">        [Homework 2 (continued)][Homework 2] (Due: Oct-26)
                                                                                                     </i>][week09-materials]
 
-Week 10          Oct-29 – Nov-02      Data distributions                                                                               [Week 10 module exercises] (Due: Nov-05)
+Week 10          Oct-29 – Nov-02      Catch-up week                                                                                    [Week 10 module exercises] (Due: Nov-05)
 
-Week 11          Nov-05 – Nov-09      Inference and simulation
+Week 11          Nov-05 – Nov-09      Data distributions                                            [<i                                [Week 11 readings] (Due: Nov-11)
+                                                                                                    class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week11-materials]
 
-Week 12          Nov-12 – Nov-16      Inference and simulation
+Week 12          Nov-12 – Nov-16      Inference and simulation                                      [<i                                [Week 12 readings] (Due: Nov-18)
+                                                                                                    class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week12-materials]
 
-Week 13          Nov-19 – Nov-23<br>  Modeling
-                 Thanksgiving Day
+Week 13          Nov-19 – Nov-23<br>  Inference and simulation                                      [<i                                [Week 13 readings] (Due: Nov-25)
+                 Thanksgiving Day                                                                   class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week13-materials]
 
-Week 14          Nov-26 – Nov-30      Modeling
+Week 14          Nov-26 – Nov-30      Modeling                                                      [<i                                [Week 14 readings] (Due: Dec-02)
+                                                                                                    class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week14-materials]
 
-Week 15          Dec-03 – Dec-07      Web scraping
+Week 15          Dec-03 – Dec-07      Modeling                                                      [<i                                [Week 15 readings] (Due: Dec-09)
+                                                                                                    class="fas fa-chalkboard-teacher"
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week15-materials]
 
-Week 16          Dec-10 – Dec-14                                                                                                       Final project
+Week 16          Dec-10 – Dec-14      Web scraping (optional)                                       [<i                                Final project<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Week 16 readings] (Due: Optional)
+                                                                                                    data-fa-transform="grow-8">
+                                                                                                    </i>][week16-materials]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -83,6 +100,12 @@ Week 16          Dec-10 – Dec-14                                              
 [Week 6 readings]:               /assignments/week-06-readings/
 [Week 8 readings]:               /assignments/week-08-readings/
 [Week 9 readings]:               /assignments/week-09-readings/
+[Week 11 readings]:              /assignments/week-11-readings/
+[Week 12 readings]:              /assignments/week-12-readings/
+[Week 13 readings]:              /assignments/week-13-readings/
+[Week 14 readings]:              /assignments/week-14-readings/
+[Week 15 readings]:              /assignments/week-15-readings/
+[Week 16 readings]:              /assignments/week-16-readings/
 [week01-02-materials]:           /materials/week-01-02-materials/
 [week03-materials]:              /materials/week-03-materials/
 [week04-materials]:              /materials/week-04-materials/
@@ -90,6 +113,12 @@ Week 16          Dec-10 – Dec-14                                              
 [week06-materials]:              /materials/week-06-materials/
 [week08-materials]:              /materials/week-08-materials/
 [week09-materials]:              /materials/week-09-materials/
+[week11-materials]:              /materials/week-11-materials/
+[week12-materials]:              /materials/week-12-materials/
+[week13-materials]:              /materials/week-13-materials/
+[week14-materials]:              /materials/week-14-materials/
+[week15-materials]:              /materials/week-15-materials/
+[week16-materials]:              /materials/week-16-materials/
 [Week 1 module exercise]:        /assignments/can-twitter-predict-election-results-module-exercise/
 [Week 3 module exercises]:       /assignments/datacamp-exercises-week-3/
 [Week 4 module exercises]:       /assignments/datacamp-exercises-week-4/

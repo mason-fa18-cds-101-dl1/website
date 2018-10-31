@@ -1,0 +1,18 @@
+Title: Week 12
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-11-18 23:59
+Tags: reading
+Slug: week-12-readings
+Show_summary: false
+Show_link: false
+
+[[Introductory Statistics with Randomization and Simulation][isrs-book]]{.h3}
+
+[Click here][isrs-book] to download the textbook.
+
+**Chapter 2: Foundation for inference**
+
+*   From the beginning up to the end of section 2.3
+
+[isrs-book]: /doc/Diez_Barr_%C3%87etinkaya-Rundel_IntroductoryStatisticsWithRandomizationAndSimulation.pdf
