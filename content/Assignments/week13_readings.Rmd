@@ -1,0 +1,22 @@
+Title: Week 13
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-11-25 23:59
+Tags: reading
+Slug: week-13-readings
+Show_summary: false
+Show_link: false
+
+[[Introductory Statistics with Randomization and Simulation][isrs-book]]{.h3}
+
+[Click here][isrs-book] to download the textbook.
+
+**Chapter 2: Foundation for inference**
+
+*   From section 2.4 through to the end of section 2.5
+
+**Chapter 4: Inference for numerical data**
+
+*   Section 4.5, skipping subsection 4.5.3
+
+[isrs-book]: /doc/Diez_Barr_%C3%87etinkaya-Rundel_IntroductoryStatisticsWithRandomizationAndSimulation.pdf

@@ -1,0 +1,27 @@
+Title: Week 11
+Author: Dr. Glasbrenner
+Author_Image: https://www.gravatar.com/avatar/49802fdfa5a0e63b3d932a5179d41c1e
+Date: 2018-11-11 23:59
+Tags: reading
+Slug: week-11-readings
+Show_summary: false
+Show_link: false
+
+[[Introduction to computational and data sciences supplemental book][cds-book]]{.h3}
+
+**Chapter 4: Representing distributions**
+
+*   Introduction: <http://book.cds101.com/representing-distributions.html>
+
+*   Section 4.1 – Probability mass functions: <http://book.cds101.com/probability-mass-functions.html>
+
+*   Section 4.2 – Cumulative distribution functions: <http://book.cds101.com/cumulative-distribution-functions.html>
+
+[[R for Data Science][r4ds-book]]{.h3}
+
+**Chapter 7: Exploratory data analysis**
+
+*   Full chapter: <http://r4ds.had.co.nz/exploratory-data-analysis.html>
+
+[cds-book]:  http://book.cds101.com
+[r4ds-book]: http://r4ds.had.co.nz
