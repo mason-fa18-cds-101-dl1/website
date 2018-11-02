@@ -30,5 +30,23 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 *   [`r icon_book` &nbsp; [Week 11 readings]{.card-downloads-format}][readings] (Due: Nov-11)
 :::
 
+<div style="margin-bottom: 1em"></div>
+
+[Slides]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pdf` &nbsp; [01 - Quantifying data distributions]{.card-downloads-format}][slides-01]
+
+*   [`r icon_pdf` &nbsp; [02 - Quantifying data distributions in R]{.card-downloads-format}][slides-02]
+
+*   [`r icon_pdf` &nbsp; [03 - Probability mass functions]{.card-downloads-format}][slides-03]
+
+*   [`r icon_pdf` &nbsp; [04 - Cumulative distribution functions]{.card-downloads-format}][slides-04]
+:::
+
 [readings]:                    /assignments/week-11-readings/
+[slides-01]:                   /doc/week11_data_distributions_01_quantifying_data_distributions.pdf
+[slides-02]:                   /doc/week11_data_distributions_02_quantifying_data_distributions_in_r.pdf
+[slides-03]:                   /doc/week11_data_distributions_03_probability_mass_functions.pdf
+[slides-04]:                   /doc/week11_data_distributions_04_cumulative_distribution_functions.pdf
 [homework-2-group-assignment]: /assignments/homework-2-group/
