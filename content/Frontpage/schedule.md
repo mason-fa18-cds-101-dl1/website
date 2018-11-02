@@ -60,8 +60,8 @@ Week 9           Oct-22 – Oct-26      Data reshaping (Tidy data)              
 
 Week 10          Oct-29 – Nov-02      Catch-up week                                                                                    [Week 10 module exercises] (Due: Nov-05)
 
-Week 11          Nov-05 – Nov-09      Data distributions                                            [<i                                [Week 11 readings] (Due: Nov-11)
-                                                                                                    class="fas fa-chalkboard-teacher"
+Week 11          Nov-05 – Nov-09      Data distributions                                            [<i                                [Week 11 readings] (Due: Nov-11)<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Homework 2 (Group)] (Due: Nov-09)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week11-materials]
 
@@ -131,5 +131,6 @@ Week 16          Dec-10 – Dec-14      Web scraping (optional)                 
 [Homework 1]:                    /assignments/homework-1/
 [Homework 1 (Group)]:            /assignments/homework-1-group/
 [Homework 2]:                    /assignments/homework-2/
+[Homework 2 (Group)]:            /assignments/homework-2-group/
 [R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
 [Visualization mini-assignment]: /assignments/visualization-mini-assignment/

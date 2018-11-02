@@ -17,10 +17,18 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 
 [Data distributions]{.h2}
 
+[Homework assignment]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pencil` &nbsp; [Homework 2 (Group)]{.card-downloads-format}][homework-2-group-assignment] (Due: Nov-09)
+:::
+<div style="margin-bottom: 1em"></div>
+
 [Readings]{.h3}
 
 ::: {.no-bullets}
 *   [`r icon_book` &nbsp; [Week 11 readings]{.card-downloads-format}][readings] (Due: Nov-11)
 :::
 
-[readings]: /assignments/week-11-readings/
+[readings]:                    /assignments/week-11-readings/
+[homework-2-group-assignment]: /assignments/homework-2-group/
