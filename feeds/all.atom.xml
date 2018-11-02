@@ -853,9 +853,9 @@ A photograph of the &lt;em&gt;Titanic&lt;/em&gt; leaving Southampton on April 10
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Important!&lt;/strong&gt; Several of these questions ask for explanations after obtaining the correct answer. For these, you do not have to write very long responses, just write enough to express the correct answer. When you are assigned into groups, that is when you will need to write everything out in full&amp;nbsp;sentences.&lt;/p&gt;
 &lt;h2 id="the-rail-trail-dataset"&gt;The rail trail&amp;nbsp;dataset&lt;/h2&gt;
-&lt;p&gt;&lt;img src="/img/mass-central-logo.jpg" title="plot of chunk mass-central-logo" alt="plot of chunk mass-central-logo" width="300px" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/mass-central-logo.jpg" title="plot of chunk mass-central-logo" alt="plot of chunk mass-central-logo" width="300px" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;For this homework assignment, you will be working though a set of visualization problems based on the &lt;code&gt;rail_trail&lt;/code&gt; dataset. The &lt;code&gt;rail_trail&lt;/code&gt; dataset was collected by the Pioneer Valley Planning Commission (&lt;span class="caps"&gt;PVPC&lt;/span&gt;) and counts the number of people that walked through a sensor on a &lt;em&gt;rail trail&lt;/em&gt; during a ninety day period. &lt;a href="https://wikipedia.org/wiki/Rail_trail"&gt;A &lt;em&gt;rail trail&lt;/em&gt; is a retired or abandoned railway that was converted into a walking trail&lt;/a&gt;. The data was collected from April 5, 2005 to November 15, 2005 using a laser sensor placed at a location north of Chestnut Street in Florence, &lt;span class="caps"&gt;MA&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src="/img/florence-chestnut-street-rail-trail.png" title="plot of chunk florence-ma-chestnut" alt="plot of chunk florence-ma-chestnut" width="50%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/florence-chestnut-street-rail-trail.png" title="plot of chunk florence-ma-chestnut" alt="plot of chunk florence-ma-chestnut" width="50%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;The dataset contains the following&amp;nbsp;variables:&lt;/p&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
@@ -924,7 +924,7 @@ A photograph of the &lt;em&gt;Titanic&lt;/em&gt; leaving Southampton on April 10
   geom_count(mapping = aes(x = season, y = weekday))&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Which circle in the plot takes up the most area? Explain the meaning of the different size circles in the plot and what information it contains that is missing in the previous scatter&amp;nbsp;plot.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Run &lt;code&gt;?geom_bar&lt;/code&gt; in the &lt;em&gt;Console&lt;/em&gt; window and read the documentation for &lt;code&gt;geom_bar()&lt;/code&gt;, and then look at the entry for it on the &lt;a href="/doc/ggplot2-cheatsheet.pdf"&gt;ggplot2 cheatsheet&lt;/a&gt; Use &lt;code&gt;geom_bar()&lt;/code&gt; to reproduce the following bar&amp;nbsp;chart:&lt;/p&gt;
-&lt;p&gt;&lt;img src="/img/seasons-bar-chart-1.svg" title="plot of chunk seasons-bar-chart" alt="plot of chunk seasons-bar-chart" width="70%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://fall18.cds101.com/img/seasons-bar-chart-1.svg" title="plot of chunk seasons-bar-chart" alt="plot of chunk seasons-bar-chart" width="70%" style="display: block; margin: auto;" /&gt;&lt;/p&gt;
 &lt;p&gt;After reproducing the plot, explain what the height of each bar&amp;nbsp;means.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Starting from the code snippet you deduced in question 7, create two more bar&amp;nbsp;charts:&lt;/p&gt;
 &lt;ul&gt;
