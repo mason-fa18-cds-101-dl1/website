@@ -343,6 +343,18 @@
 &lt;li&gt;&lt;a href="/assignments/week-11-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 11 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Nov-11)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_01_quantifying_data_distributions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Quantifying data&amp;nbsp;distributions&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_02_quantifying_data_distributions_in_r.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - Quantifying data distributions in&amp;nbsp;R&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_03_probability_mass_functions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - Probability mass&amp;nbsp;functions&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week11_data_distributions_04_cumulative_distribution_functions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - Cumulative distribution&amp;nbsp;functions&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Data&amp;nbsp;distributions&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Homework&amp;nbsp;assignment&lt;/span&gt;&lt;/p&gt;
 &lt;div class="no-bullets"&gt;
@@ -357,6 +369,18 @@
 &lt;div class="no-bullets"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/assignments/week-11-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 11 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Nov-11)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_01_quantifying_data_distributions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Quantifying data&amp;nbsp;distributions&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_02_quantifying_data_distributions_in_r.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - Quantifying data distributions in&amp;nbsp;R&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week11_data_distributions_03_probability_mass_functions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - Probability mass&amp;nbsp;functions&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week11_data_distributions_04_cumulative_distribution_functions.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - Cumulative distribution&amp;nbsp;functions&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content><category term="class notes"></category></entry><entry><title>DataCamp exercises (Week 9)</title><link href="http://fall18.cds101.com/assignments/datacamp-exercises-week-9/" rel="alternate"></link><published>2018-10-29T23:59:00-04:00</published><updated>2018-10-29T23:59:00-04:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-10-29:/assignments/datacamp-exercises-week-9/</id><summary type="html">&lt;h2 id="instructions"&gt;Instructions&lt;/h2&gt;
