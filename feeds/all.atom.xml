@@ -170,11 +170,35 @@
 &lt;li&gt;&lt;a href="/assignments/week-12-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 12 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Nov-18)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_01_gender_discrimination_case_study.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Gender discrimination case&amp;nbsp;study&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_02_simulating_the_gender_discrimination_experiment_in_r.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - Simulating the gender discrimination experiment in&amp;nbsp;R&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_03_one-sided_hypothesis_tests_using_infer.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - One-sided hypothesis tests using&amp;nbsp;infer&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week12_inference_and_simulation_04_two-sided_hypothesis_tests_using_infer.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - Two-sided hypothesis tests using&amp;nbsp;infer&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </summary><content type="html">&lt;p&gt;&lt;span class="h2"&gt;Inference and&amp;nbsp;simulation&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class="h3"&gt;Readings&lt;/span&gt;&lt;/p&gt;
 &lt;div class="no-bullets"&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/assignments/week-12-readings/"&gt;&lt;i class="fa fa-book" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;Week 12 readings&lt;/span&gt;&lt;/a&gt; (Due:&amp;nbsp;Nov-18)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 1em"&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;span class="h3"&gt;Slides&lt;/span&gt;&lt;/p&gt;
+&lt;div class="no-bullets"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_01_gender_discrimination_case_study.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;01 - Gender discrimination case&amp;nbsp;study&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_02_simulating_the_gender_discrimination_experiment_in_r.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;02 - Simulating the gender discrimination experiment in&amp;nbsp;R&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="/doc/week12_inference_and_simulation_03_one-sided_hypothesis_tests_using_infer.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;03 - One-sided hypothesis tests using&amp;nbsp;infer&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/doc/week12_inference_and_simulation_04_two-sided_hypothesis_tests_using_infer.pdf"&gt;&lt;i class="fas fa-file-pdf" data-fa-transform="grow-16"&gt;&lt;/i&gt;    &lt;span class="card-downloads-format"&gt;04 - Two-sided hypothesis tests using&amp;nbsp;infer&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 </content><category term="class notes"></category></entry><entry><title>Week 11</title><link href="http://fall18.cds101.com/assignments/week-11-readings/" rel="alternate"></link><published>2018-11-11T23:59:00-05:00</published><updated>2018-11-11T23:59:00-05:00</updated><author><name>Dr. Glasbrenner</name></author><id>tag:fall18.cds101.com,2018-11-11:/assignments/week-11-readings/</id><summary type="html">&lt;p&gt;&lt;span class="h3"&gt;&lt;a href="http://book.cds101.com"&gt;Introduction to computational and data sciences supplemental&amp;nbsp;book&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
