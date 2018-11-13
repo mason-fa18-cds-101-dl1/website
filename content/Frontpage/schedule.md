@@ -65,18 +65,18 @@ Week 11          Nov-05 – Nov-09      Data distributions                      
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week11-materials]
 
-Week 12          Nov-12 – Nov-16      Inference and simulation                                      [<i                                [Week 12 readings] (Due: Nov-18)
-                                                                                                    class="fas fa-chalkboard-teacher"
+Week 12          Nov-12 – Nov-16      Inference and simulation                                      [<i                                [Week 12 readings] (Due: Nov-18)<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Homework 3] (Due: Nov-27)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week12-materials]
 
-Week 13          Nov-19 – Nov-23<br>  Inference and simulation                                      [<i                                [Week 13 readings] (Due: Nov-25)
-                 Thanksgiving Day                                                                   class="fas fa-chalkboard-teacher"
+Week 13          Nov-19 – Nov-23<br>  Inference and simulation                                      [<i                                [Week 13 readings] (Due: Nov-25)<br>
+                 Thanksgiving Day                                                                   class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-27)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week13-materials]
 
-Week 14          Nov-26 – Nov-30      Modeling                                                      [<i                                [Week 14 readings] (Due: Dec-02)
-                                                                                                    class="fas fa-chalkboard-teacher"
+Week 14          Nov-26 – Nov-30      Modeling                                                      [<i                                [Week 14 readings] (Due: Dec-02)<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-27)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week14-materials]
 
@@ -132,5 +132,6 @@ Week 16          Dec-10 – Dec-14      Web scraping (optional)                 
 [Homework 1 (Group)]:            /assignments/homework-1-group/
 [Homework 2]:                    /assignments/homework-2/
 [Homework 2 (Group)]:            /assignments/homework-2-group/
+[Homework 3]:                    /assignments/homework-3/
 [R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
 [Visualization mini-assignment]: /assignments/visualization-mini-assignment/

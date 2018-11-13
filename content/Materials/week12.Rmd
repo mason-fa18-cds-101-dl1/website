@@ -17,6 +17,14 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 
 [Inference and simulation]{.h2}
 
+[Homework assignment]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pencil` &nbsp; [Homework 3]{.card-downloads-format}][homework-3] (Due: Nov-27)
+:::
+
+<div style="margin-bottom: 1em"></div>
+
 [Readings]{.h3}
 
 ::: {.no-bullets}
@@ -37,8 +45,9 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 *   [`r icon_pdf` &nbsp; [04 - Two-sided hypothesis tests using infer]{.card-downloads-format}][slides-04]
 :::
 
-[readings]:  /assignments/week-12-readings/
-[slides-01]: /doc/week12_inference_and_simulation_01_gender_discrimination_case_study.pdf
-[slides-02]: /doc/week12_inference_and_simulation_02_simulating_the_gender_discrimination_experiment_in_r.pdf
-[slides-03]: /doc/week12_inference_and_simulation_03_one-sided_hypothesis_tests_using_infer.pdf
-[slides-04]: /doc/week12_inference_and_simulation_04_two-sided_hypothesis_tests_using_infer.pdf
+[readings]:   /assignments/week-12-readings/
+[slides-01]:  /doc/week12_inference_and_simulation_01_gender_discrimination_case_study.pdf
+[slides-02]:  /doc/week12_inference_and_simulation_02_simulating_the_gender_discrimination_experiment_in_r.pdf
+[slides-03]:  /doc/week12_inference_and_simulation_03_one-sided_hypothesis_tests_using_infer.pdf
+[slides-04]:  /doc/week12_inference_and_simulation_04_two-sided_hypothesis_tests_using_infer.pdf
+[homework-3]: /assignments/homework-3/
