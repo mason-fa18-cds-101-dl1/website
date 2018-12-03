@@ -71,22 +71,22 @@ Week 12          Nov-12 – Nov-16      Inference and simulation                
                                                                                                     </i>][week12-materials]
 
 Week 13          Nov-19 – Nov-23<br>  Inference and simulation                                      [<i                                [Week 13 readings] (Due: Nov-25)<br>
-                 Thanksgiving Day                                                                   class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-27)
+                 Thanksgiving Day                                                                   class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-30)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week13-materials]
 
-Week 14          Nov-26 – Nov-30      Modeling                                                      [<i                                [Week 14 readings] (Due: Dec-02)<br>
-                                                                                                    class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-27)
+Week 14          Nov-26 – Nov-30      Inference and simulation                                      [<i                                [Week 14 readings] (Due: Dec-02)<br>
+                                                                                                    class="fas fa-chalkboard-teacher"  [Homework 3 (continued)][Homework 3] (Due: Nov-30)
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week14-materials]
 
-Week 15          Dec-03 – Dec-07      Modeling                                                      [<i                                [Week 15 readings] (Due: Dec-09)
+Week 15          Dec-03 – Dec-07      Final project                                                 [<i                                [Final project question list] (Due: Dec-07)
                                                                                                     class="fas fa-chalkboard-teacher"
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week15-materials]
 
-Week 16          Dec-10 – Dec-14      Web scraping (optional)                                       [<i                                Final project<br>
-                                                                                                    class="fas fa-chalkboard-teacher"  [Week 16 readings] (Due: Optional)
+Week 16          Dec-10 – Dec-14      Final project                                                 [<i                                [Final project report] (Due: Dec-14)
+                                                                                                    class="fas fa-chalkboard-teacher"
                                                                                                     data-fa-transform="grow-8">
                                                                                                     </i>][week16-materials]
 
@@ -133,5 +133,7 @@ Week 16          Dec-10 – Dec-14      Web scraping (optional)                 
 [Homework 2]:                    /assignments/homework-2/
 [Homework 2 (Group)]:            /assignments/homework-2-group/
 [Homework 3]:                    /assignments/homework-3/
+[Final project question list]:   /assignments/final-project/
+[Final project report]:          /assignments/final-project/
 [R Markdown mini-assignment]:    /assignments/rmarkdown-mini-assignment/
 [Visualization mini-assignment]: /assignments/visualization-mini-assignment/

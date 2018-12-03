@@ -17,10 +17,19 @@ icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 
 [Inference and simulation]{.h2}
 
+[Homework assignment]{.h3}
+
+::: {.no-bullets}
+*   [`r icon_pencil` &nbsp; [Homework 3]{.card-downloads-format}][homework-3] (Due: Nov-30)
+:::
+
+<div style="margin-bottom: 1em"></div>
+
 [Readings]{.h3}
 
 ::: {.no-bullets}
 *   [`r icon_book` &nbsp; [Week 13 readings]{.card-downloads-format}][readings] (Due: Nov-25)
 :::
 
-[readings]: /assignments/week-13-readings/
+[readings]:   /assignments/week-13-readings/
+[homework-3]: /assignments/homework-3/
