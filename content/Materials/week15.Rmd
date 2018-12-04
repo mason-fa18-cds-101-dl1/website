@@ -15,12 +15,10 @@ icon_pencil <- '<i class="fas fa-pencil-alt" data-fa-transform="grow-16"></i>&nb
 icon_laptop <- '<i class="fa fa-laptop" data-fa-transform="grow-16"></i>&nbsp;'
 ```
 
-[Modeling]{.h2}
-
-[Readings]{.h3}
+[Final Project]{.h3}
 
 ::: {.no-bullets}
-*   [`r icon_book` &nbsp; [Week 15 readings]{.card-downloads-format}][readings] (Due: Dec-09)
+*   [`r icon_pencil` &nbsp; [Final Project Report]{.card-downloads-format}][final-project] (Due: Dec-14)
 :::
 
-[readings]: /assignments/week-15-readings/
+[final-project]: /assignments/final-project/
